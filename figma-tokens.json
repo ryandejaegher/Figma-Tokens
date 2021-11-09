@@ -4,5 +4,11 @@
       "value": "yellow",
       "type": "color"
     }
+  },
+  "demo": {
+    "primary": {
+      "value": "blue",
+      "type": "color"
+    }
   }
 }
