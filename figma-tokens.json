@@ -1,0 +1,8 @@
+{
+  "global": {
+    "primary": {
+      "value": "yellow",
+      "type": "color"
+    }
+  }
+}
