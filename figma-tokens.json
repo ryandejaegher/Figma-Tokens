@@ -1,7 +1,11 @@
 {
   "global": {
     "primary": {
+<<<<<<< HEAD
       "value": "red",
+=======
+      "value": "blue",
+>>>>>>> 132606b66d6c01fbb098dba0f58842fcb55a8c6c
       "type": "color"
     }
   }
