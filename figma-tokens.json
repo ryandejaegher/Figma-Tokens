@@ -642,6 +642,24 @@
           "value": "{fontSizes.base}",
           "type": "fontSizes"
         }
+      },
+      "tablet": {
+        "h1": {
+          "value": "{fontSizes.2xl}",
+          "type": "fontSizes"
+        },
+        "h2": {
+          "value": "{fontSizes.lg}",
+          "type": "fontSizes"
+        },
+        "h3": {
+          "value": "{fontSizes.lg}",
+          "type": "fontSizes"
+        },
+        "body": {
+          "value": "{fontSizes.lg}",
+          "type": "fontSizes"
+        }
       }
     }
   },
