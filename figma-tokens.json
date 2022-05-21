@@ -516,7 +516,7 @@
     },
     "fontFamilies": {
       "Primary": {
-        "value": "Roboto",
+        "value": "Georgia",
         "type": "fontFamilies"
       }
     },
@@ -666,10 +666,36 @@
       "mobile": {
         "h1": {
           "value": {
-            "fontFamily": "Inter",
+            "fontFamily": "{fontFamilies.Primary}",
             "fontWeight": "Regular",
             "lineHeight": "AUTO",
             "fontSize": "18",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "h2": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "18",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "h3": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.2xl}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
