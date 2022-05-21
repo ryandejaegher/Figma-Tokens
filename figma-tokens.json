@@ -637,7 +637,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Test description"
         },
         "h2": {
           "value": {
