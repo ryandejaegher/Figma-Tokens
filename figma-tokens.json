@@ -935,6 +935,48 @@
           },
           "type": "typography",
           "description": "Test description"
+        },
+        "formLabel": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formPlaceholder": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formInput": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
         }
       },
       "tablet": {
@@ -965,6 +1007,48 @@
           },
           "type": "typography",
           "description": "Test description"
+        },
+        "formLabel": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formPlaceholder": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formHint": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
         }
       },
       "desktop": {
@@ -983,6 +1067,48 @@
           "description": "Test description"
         },
         "footerMenuLinks": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formLabel": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formPlaceholder": {
+          "value": {
+            "fontFamily": "{fontFamilies.Primary}",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "{fontSizes.xl}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Test description"
+        },
+        "formHint": {
           "value": {
             "fontFamily": "{fontFamilies.Primary}",
             "fontWeight": "Regular",
