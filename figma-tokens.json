@@ -964,7 +964,7 @@
           "type": "typography",
           "description": "Test description"
         },
-        "formInput": {
+        "formHint": {
           "value": {
             "fontFamily": "{fontFamilies.Primary}",
             "fontWeight": "Regular",
