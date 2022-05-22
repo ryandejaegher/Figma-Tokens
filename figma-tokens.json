@@ -556,7 +556,7 @@
         "type": "fontSizes"
       },
       "base": {
-        "value": "20 * 1",
+        "value": "16 * 1",
         "type": "fontSizes"
       },
       "lg": {
