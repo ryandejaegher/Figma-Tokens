@@ -516,7 +516,7 @@
     },
     "fontFamilies": {
       "Primary": {
-        "value": "Georgia",
+        "value": "Inter",
         "type": "fontFamilies"
       }
     },
@@ -1085,7 +1085,7 @@
             "fontFamily": "{fontFamilies.Primary}",
             "fontWeight": "Regular",
             "lineHeight": "AUTO",
-            "fontSize": "{fontSizes.xl}",
+            "fontSize": "{fontSizes.base}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1099,7 +1099,7 @@
             "fontFamily": "{fontFamilies.Primary}",
             "fontWeight": "Regular",
             "lineHeight": "AUTO",
-            "fontSize": "{fontSizes.xl}",
+            "fontSize": "{fontSizes.base}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1113,7 +1113,7 @@
             "fontFamily": "{fontFamilies.Primary}",
             "fontWeight": "Regular",
             "lineHeight": "AUTO",
-            "fontSize": "{fontSizes.xl}",
+            "fontSize": "{fontSizes.base}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
