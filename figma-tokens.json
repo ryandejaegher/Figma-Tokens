@@ -516,7 +516,7 @@
     },
     "fontFamilies": {
       "Primary": {
-        "value": "Inter",
+        "value": "Fira Code",
         "type": "fontFamilies"
       }
     },
