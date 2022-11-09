@@ -1395,5 +1395,20 @@
       }
     }
   },
-  "$themes": []
+  "Tailwind/Styles": {},
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Global",
+      "monoFont",
+      "sfFont",
+      "futuraFont",
+      "interfont",
+      "bisonFont",
+      "tailwindPurple",
+      "tailwindBlue",
+      "tailwindPink",
+      "Tailwind/Styles"
+    ]
+  }
 }
