@@ -3,7 +3,7 @@
     "colors": {
       "Primary": {
         "50": {
-          "value": "$colors.red.50",
+          "value": "$Tailwind.Colors.red.500",
           "type": "color"
         },
         "100": {
