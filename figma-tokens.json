@@ -548,11 +548,15 @@
   "Tailwind/Typography": {
     "fontFamilies": {
       "font-sans": {
-        "value": "IBM Plex Mono",
+        "value": "Inter",
         "type": "fontFamilies"
       },
       "font-serif": {
         "value": "Faustina",
+        "type": "fontFamilies"
+      },
+      "font-mono": {
+        "value": "IBM Plex Mono",
         "type": "fontFamilies"
       }
     },
