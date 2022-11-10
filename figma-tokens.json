@@ -1272,6 +1272,13 @@
       }
     }
   },
+  "Dope Fonts/Sans": {},
+  "Dope Fonts/Mono": {
+    "Fira Code": {
+      "value": "Fira Code",
+      "type": "fontFamilies"
+    }
+  },
   "monoFont": {
     "fontFamilies": {
       "Primary": {
