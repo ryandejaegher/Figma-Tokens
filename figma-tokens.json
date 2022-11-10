@@ -849,7 +849,7 @@
     },
     "fontFamilies": {
       "Primary": {
-        "value": "Fira Code",
+        "value": "{fontFamilies.font-sans}",
         "type": "fontFamilies"
       }
     },
