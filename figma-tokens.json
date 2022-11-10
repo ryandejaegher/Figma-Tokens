@@ -1,5 +1,60 @@
 {
-  "Tailwind/Styles": {},
+  "Tailwind/Typography": {
+    "fontSizes": {
+      "xs": {
+        "value": "$fontSizes.base * 0.75",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "$fontSizes.base *  .875",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "16 * 1",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "$fontSizes.base * 1.125",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "$fontSizes.base * 1.25",
+        "type": "fontSizes"
+      },
+      "2xl": {
+        "value": "$fontSizes.base * 1.5",
+        "type": "fontSizes"
+      },
+      "3xl": {
+        "value": "$fontSizes.base * 1.875",
+        "type": "fontSizes"
+      },
+      "4xl": {
+        "value": "$fontSizes.base * 2.25",
+        "type": "fontSizes"
+      },
+      "5xl": {
+        "value": "$fontSizes.base * 3",
+        "type": "fontSizes"
+      },
+      "6xl": {
+        "value": "$fontSizes.base * 3.75",
+        "type": "fontSizes"
+      },
+      "7xl": {
+        "value": "$fontSizes.base * 4.5",
+        "type": "fontSizes"
+      },
+      "8xl": {
+        "value": "$fontSizes.base * 6",
+        "type": "fontSizes"
+      },
+      "9xl": {
+        "value": "$fontSizes.base * 8",
+        "type": "fontSizes"
+      }
+    }
+  },
   "Tailwind/Colors": {
     "transparent": {
       "value": "#00000000",
@@ -350,15 +405,115 @@
       }
     }
   },
-  "Global": {
+  "Tailwind/Sizing": {
+    "sizing": {
+      "1": {
+        "value": "1",
+        "type": "sizing"
+      },
+      "2": {
+        "value": "2",
+        "type": "sizing"
+      },
+      "4": {
+        "value": "4",
+        "type": "sizing"
+      },
+      "6": {
+        "value": "6",
+        "type": "sizing"
+      },
+      "8": {
+        "value": "8",
+        "type": "sizing"
+      },
+      "10": {
+        "value": "10",
+        "type": "sizing"
+      },
+      "12": {
+        "value": "12",
+        "type": "sizing"
+      },
+      "14": {
+        "value": "14",
+        "type": "sizing"
+      },
+      "16": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "20": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "24": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "32": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "36": {
+        "value": "36",
+        "type": "sizing"
+      },
+      "40": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "48": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "56": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "64": {
+        "value": "64",
+        "type": "sizing"
+      },
+      "80": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "96": {
+        "value": "96",
+        "type": "sizing"
+      },
+      "112": {
+        "value": "112",
+        "type": "sizing"
+      },
+      "128": {
+        "value": "128",
+        "type": "sizing"
+      },
+      "144": {
+        "value": "144",
+        "type": "sizing"
+      },
+      "160": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "Container": {
+        "value": "1280",
+        "type": "sizing"
+      }
+    }
+  },
+  "Themes/A": {
     "colors": {
       "Primary": {
         "50": {
-          "value": "$red.50",
+          "value": "{red.50}",
           "type": "color"
         },
         "100": {
-          "value": "$red.100",
+          "value": "{red.100}",
           "type": "color"
         },
         "200": {
@@ -366,31 +521,31 @@
           "type": "color"
         },
         "300": {
-          "value": "$red.300",
+          "value": "{red.300}",
           "type": "color"
         },
         "400": {
-          "value": "$red.400",
+          "value": "{red.400}",
           "type": "color"
         },
         "500": {
-          "value": "$red.500",
+          "value": "{red.500}",
           "type": "color"
         },
         "600": {
-          "value": "$red.600",
+          "value": "{red.600}",
           "type": "color"
         },
         "700": {
-          "value": "$red.700",
+          "value": "{red.700}",
           "type": "color"
         },
         "800": {
-          "value": "$red.800",
+          "value": "{red.800}",
           "type": "color"
         },
         "900": {
-          "value": "$red.900",
+          "value": "{red.900}",
           "type": "color"
         }
       },
@@ -505,60 +660,6 @@
         "type": "lineHeights"
       }
     },
-    "fontSizes": {
-      "xs": {
-        "value": "$fontSizes.base * 0.75",
-        "type": "fontSizes"
-      },
-      "sm": {
-        "value": "$fontSizes.base *  .875",
-        "type": "fontSizes"
-      },
-      "base": {
-        "value": "16 * 1",
-        "type": "fontSizes"
-      },
-      "lg": {
-        "value": "$fontSizes.base * 1.125",
-        "type": "fontSizes"
-      },
-      "xl": {
-        "value": "$fontSizes.base * 1.25",
-        "type": "fontSizes"
-      },
-      "2xl": {
-        "value": "$fontSizes.base * 1.5",
-        "type": "fontSizes"
-      },
-      "3xl": {
-        "value": "$fontSizes.base * 1.875",
-        "type": "fontSizes"
-      },
-      "4xl": {
-        "value": "$fontSizes.base * 2.25",
-        "type": "fontSizes"
-      },
-      "5xl": {
-        "value": "$fontSizes.base * 3",
-        "type": "fontSizes"
-      },
-      "6xl": {
-        "value": "$fontSizes.base * 3.75",
-        "type": "fontSizes"
-      },
-      "7xl": {
-        "value": "$fontSizes.base * 4.5",
-        "type": "fontSizes"
-      },
-      "8xl": {
-        "value": "$fontSizes.base * 6",
-        "type": "fontSizes"
-      },
-      "9xl": {
-        "value": "$fontSizes.base * 8",
-        "type": "fontSizes"
-      }
-    },
     "borderWidth": {
       "1": {
         "value": "1",
@@ -575,104 +676,6 @@
       "none": {
         "value": "0",
         "type": "borderWidth"
-      }
-    },
-    "sizing": {
-      "1": {
-        "value": "1",
-        "type": "sizing"
-      },
-      "2": {
-        "value": "2",
-        "type": "sizing"
-      },
-      "4": {
-        "value": "4",
-        "type": "sizing"
-      },
-      "6": {
-        "value": "6",
-        "type": "sizing"
-      },
-      "8": {
-        "value": "8",
-        "type": "sizing"
-      },
-      "10": {
-        "value": "10",
-        "type": "sizing"
-      },
-      "12": {
-        "value": "12",
-        "type": "sizing"
-      },
-      "14": {
-        "value": "14",
-        "type": "sizing"
-      },
-      "16": {
-        "value": "16",
-        "type": "sizing"
-      },
-      "20": {
-        "value": "20",
-        "type": "sizing"
-      },
-      "24": {
-        "value": "24",
-        "type": "sizing"
-      },
-      "32": {
-        "value": "32",
-        "type": "sizing"
-      },
-      "36": {
-        "value": "36",
-        "type": "sizing"
-      },
-      "40": {
-        "value": "40",
-        "type": "sizing"
-      },
-      "48": {
-        "value": "48",
-        "type": "sizing"
-      },
-      "56": {
-        "value": "56",
-        "type": "sizing"
-      },
-      "64": {
-        "value": "64",
-        "type": "sizing"
-      },
-      "80": {
-        "value": "80",
-        "type": "sizing"
-      },
-      "96": {
-        "value": "96",
-        "type": "sizing"
-      },
-      "112": {
-        "value": "112",
-        "type": "sizing"
-      },
-      "128": {
-        "value": "128",
-        "type": "sizing"
-      },
-      "144": {
-        "value": "144",
-        "type": "sizing"
-      },
-      "160": {
-        "value": "160",
-        "type": "sizing"
-      },
-      "Container": {
-        "value": "1280",
-        "type": "sizing"
       }
     },
     "content": {
