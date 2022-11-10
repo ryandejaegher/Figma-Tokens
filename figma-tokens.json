@@ -349,46 +349,6 @@
       }
     }
   },
-  "monoFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Fira Mono",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "sfFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "SF Pro Text",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "futuraFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Futura",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "interfont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Inter",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "bisonFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Bison",
-        "type": "fontFamilies"
-      }
-    }
-  },
   "Tailwind/Sizing": {
     "sizing": {
       "1": {
@@ -489,7 +449,109 @@
       }
     }
   },
+  "Tailwind/Spacing": {
+    "spacing": {
+      "1": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "2": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "6": {
+        "value": "6",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "10": {
+        "value": "10",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "14": {
+        "value": "14",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "32": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "36": {
+        "value": "36",
+        "type": "spacing"
+      },
+      "40": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "48": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "56": {
+        "value": "56",
+        "type": "spacing"
+      },
+      "64": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "80": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "96": {
+        "value": "96",
+        "type": "spacing"
+      },
+      "112": {
+        "value": "112",
+        "type": "spacing"
+      },
+      "128": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "144": {
+        "value": "144",
+        "type": "spacing"
+      },
+      "160": {
+        "value": "160",
+        "type": "spacing"
+      }
+    }
+  },
   "Tailwind/Typography": {
+    "fontFamilies": {
+      "sans": {
+        "value": "IBM Plex Mono",
+        "type": "fontFamilies"
+      }
+    },
     "fontSizes": {
       "xs": {
         "value": "$fontSizes.base * 0.75",
@@ -543,6 +605,110 @@
         "value": "$fontSizes.base * 8",
         "type": "fontSizes"
       }
+    },
+    "fontWeights": {
+      "Regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "Medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "Thin": {
+        "value": "Thin",
+        "type": "fontWeights"
+      },
+      "Black": {
+        "value": "Black",
+        "type": "fontWeights"
+      },
+      "Extrabold": {
+        "value": "Extrabold",
+        "type": "fontWeights"
+      },
+      "Semibold": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
+      "Heavy": {
+        "value": "Heavy",
+        "type": "fontWeights"
+      },
+      "Light": {
+        "value": "Light",
+        "type": "fontWeights"
+      }
+    },
+    "lineHeights": {
+      "none": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "tight": {
+        "value": "125%",
+        "type": "lineHeights"
+      },
+      "snug": {
+        "value": "137.50%",
+        "type": "lineHeights"
+      },
+      "normal": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "relaxed": {
+        "value": "162.5%",
+        "type": "lineHeights"
+      },
+      "loose": {
+        "value": "200%",
+        "type": "lineHeights"
+      }
+    }
+  },
+  "monoFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Fira Mono",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "sfFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "SF Pro Text",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "futuraFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Futura",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "interfont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "bisonFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Bison",
+        "type": "fontFamilies"
+      }
     }
   },
   "Themes/A": {
@@ -589,6 +755,48 @@
           "type": "color"
         }
       },
+      "Secondary": {
+        "50": {
+          "value": "{blue.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{blue.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{blue.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{blue.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{blue.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{blue.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{blue.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{blue.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{blue.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{blue.900}",
+          "type": "color"
+        }
+      },
       "Neutral": {
         "Pure black": {
           "value": "#000",
@@ -630,74 +838,10 @@
         "type": "spacing"
       }
     },
-    "fontWeights": {
-      "Regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "Bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "Medium": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "Thin": {
-        "value": "Thin",
-        "type": "fontWeights"
-      },
-      "Black": {
-        "value": "Black",
-        "type": "fontWeights"
-      },
-      "Extrabold": {
-        "value": "Extrabold",
-        "type": "fontWeights"
-      },
-      "Semibold": {
-        "value": "Semibold",
-        "type": "fontWeights"
-      },
-      "Heavy": {
-        "value": "Heavy",
-        "type": "fontWeights"
-      },
-      "Light": {
-        "value": "Light",
-        "type": "fontWeights"
-      }
-    },
     "fontFamilies": {
       "Primary": {
         "value": "Fira Code",
         "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "none": {
-        "value": "100%",
-        "type": "lineHeights"
-      },
-      "tight": {
-        "value": "125%",
-        "type": "lineHeights"
-      },
-      "snug": {
-        "value": "137.50%",
-        "type": "lineHeights"
-      },
-      "normal": {
-        "value": "150%",
-        "type": "lineHeights"
-      },
-      "relaxed": {
-        "value": "162.5%",
-        "type": "lineHeights"
-      },
-      "loose": {
-        "value": "200%",
-        "type": "lineHeights"
       }
     },
     "borderWidth": {
