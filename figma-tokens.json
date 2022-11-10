@@ -1398,8 +1398,10 @@
   "Tailwind/Styles": {},
   "tw/color": {
     "twRed": {
-      "value": "#c91414",
-      "type": "color"
+      "500": {
+        "value": "#c91414",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
