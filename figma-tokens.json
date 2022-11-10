@@ -1047,7 +1047,7 @@
       }
     }
   },
-  "Tailwind/Colors": {
+  "tailwind/style": {
     "transparent": {
       "value": "#00000000",
       "type": "color"
