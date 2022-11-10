@@ -1146,6 +1146,10 @@
       "font-mono": {
         "value": "IBM Plex Mono",
         "type": "fontFamilies"
+      },
+      "Fira Code": {
+        "value": "Fira Code",
+        "type": "fontFamilies"
       }
     },
     "fontSizes": {
