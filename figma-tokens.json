@@ -1176,15 +1176,237 @@
       }
     }
   },
+  "Tailwind/Spacing": {
+    "spacing": {
+      "1": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "2": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "6": {
+        "value": "6",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "10": {
+        "value": "10",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "14": {
+        "value": "14",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "32": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "36": {
+        "value": "36",
+        "type": "spacing"
+      },
+      "40": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "48": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "56": {
+        "value": "56",
+        "type": "spacing"
+      },
+      "64": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "80": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "96": {
+        "value": "96",
+        "type": "spacing"
+      },
+      "112": {
+        "value": "112",
+        "type": "spacing"
+      },
+      "128": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "144": {
+        "value": "144",
+        "type": "spacing"
+      },
+      "160": {
+        "value": "160",
+        "type": "spacing"
+      }
+    }
+  },
   "Dope Fonts/Sans": {
     "Proxima Nova": {
       "value": "Proxima Nova",
+      "type": "fontFamilies"
+    },
+    "Acumin Pro": {
+      "value": "Acumin Pro",
+      "type": "fontFamilies"
+    },
+    "Agenda": {
+      "value": "Agenda",
+      "type": "fontFamilies"
+    },
+    "Avenir Next": {
+      "value": "Avenir Next",
+      "type": "fontFamilies"
+    },
+    "Fira Sans": {
+      "value": "Fira Sans",
+      "type": "fontFamilies"
+    },
+    "FreightSans Pro": {
+      "value": "FreightSans Pro",
+      "type": "fontFamilies"
+    },
+    "Futura": {
+      "value": "Futura",
+      "type": "fontFamilies"
+    },
+    "Halyard Display": {
+      "value": "Halyard Display",
+      "type": "fontFamilies"
+    },
+    "Interstate": {
+      "value": "Interstate",
+      "type": "fontFamilies"
+    },
+    "Neue Haas Unica W1G": {
+      "value": "Neue Haas Unica W1G",
+      "type": "fontFamilies"
+    },
+    "Nimbus Sans": {
+      "value": "Nimbus Sans",
+      "type": "fontFamilies"
+    },
+    "Sofia Pro": {
+      "value": "Sofia Pro",
+      "type": "fontFamilies"
+    },
+    "Source Sans Pro": {
+      "value": "Source Sans Pro",
+      "type": "fontFamilies"
+    },
+    "P22 Underground": {
+      "value": "P22 Underground",
+      "type": "fontFamilies"
+    },
+    "PT Sans Pro": {
+      "value": "PT Sans Pro",
+      "type": "fontFamilies"
+    },
+    "Stratos": {
+      "value": "Stratos",
+      "type": "fontFamilies"
+    }
+  },
+  "Dope Fonts/Serif": {
+    "Adobe Caslon Pro": {
+      "value": "Adobe Caslon Pro",
+      "type": "fontFamilies"
+    },
+    "Calluna": {
+      "value": "Calluna",
+      "type": "fontFamilies"
+    },
+    "Adobe Garamond Pro": {
+      "value": "Adobe Garamond Pro",
+      "type": "fontFamilies"
+    },
+    "Harfang": {
+      "value": "Harfang",
+      "type": "fontFamilies"
+    },
+    "Bennet Banner": {
+      "value": "Bennet Banner",
+      "type": "fontFamilies"
+    },
+    "Meno Display": {
+      "value": "Meno Display",
+      "type": "fontFamilies"
+    },
+    "Minion Pro": {
+      "value": "Minion Pro",
+      "type": "fontFamilies"
+    },
+    "PT Serif Pro": {
+      "value": "PT Serif Pro",
+      "type": "fontFamilies"
+    },
+    "PLantin MT Pro": {
+      "value": "PLantin MT Pro",
       "type": "fontFamilies"
     }
   },
   "Dope Fonts/Mono": {
     "Fira Code": {
       "value": "Fira Code",
+      "type": "fontFamilies"
+    },
+    "DM Mono": {
+      "value": "DM Mono",
+      "type": "fontFamilies"
+    },
+    "Fira Mono": {
+      "value": "Fira Mono",
+      "type": "fontFamilies"
+    },
+    "IBM Plex Mono": {
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
+    },
+    "JetBrains Mono": {
+      "value": "JetBrains Mono",
+      "type": "fontFamilies"
+    },
+    "Noto Sans Mono": {
+      "value": "Noto Sans Mono",
+      "type": "fontFamilies"
+    },
+    "Overpass Mono": {
+      "value": "Overpass Mono",
+      "type": "fontFamilies"
+    },
+    "Space Mono": {
+      "value": "Space Mono",
       "type": "fontFamilies"
     }
   },
@@ -2018,114 +2240,14 @@
       }
     }
   },
-  "Dope Fonts/Serif": {
-    "Fira Code": {
-      "value": "Fira Code",
-      "type": "fontFamilies"
-    }
-  },
-  "Tailwind/Spacing": {
-    "spacing": {
-      "1": {
-        "value": "1",
-        "type": "spacing"
-      },
-      "2": {
-        "value": "2",
-        "type": "spacing"
-      },
-      "4": {
-        "value": "4",
-        "type": "spacing"
-      },
-      "6": {
-        "value": "6",
-        "type": "spacing"
-      },
-      "8": {
-        "value": "8",
-        "type": "spacing"
-      },
-      "10": {
-        "value": "10",
-        "type": "spacing"
-      },
-      "12": {
-        "value": "12",
-        "type": "spacing"
-      },
-      "14": {
-        "value": "14",
-        "type": "spacing"
-      },
-      "16": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "20": {
-        "value": "20",
-        "type": "spacing"
-      },
-      "24": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "32": {
-        "value": "32",
-        "type": "spacing"
-      },
-      "36": {
-        "value": "36",
-        "type": "spacing"
-      },
-      "40": {
-        "value": "40",
-        "type": "spacing"
-      },
-      "48": {
-        "value": "48",
-        "type": "spacing"
-      },
-      "56": {
-        "value": "56",
-        "type": "spacing"
-      },
-      "64": {
-        "value": "64",
-        "type": "spacing"
-      },
-      "80": {
-        "value": "80",
-        "type": "spacing"
-      },
-      "96": {
-        "value": "96",
-        "type": "spacing"
-      },
-      "112": {
-        "value": "112",
-        "type": "spacing"
-      },
-      "128": {
-        "value": "128",
-        "type": "spacing"
-      },
-      "144": {
-        "value": "144",
-        "type": "spacing"
-      },
-      "160": {
-        "value": "160",
-        "type": "spacing"
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "Tailwind/Colors",
       "Tailwind/Sizing",
       "Tailwind/Typography",
+      "Tailwind/Spacing",
+      "Dope Fonts/Serif",
       "Dope Fonts/Sans",
       "Dope Fonts/Mono",
       "monoFont",
@@ -2136,9 +2258,7 @@
       "Themes/A",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
-      "Themes/tailwindPurple",
-      "Dope Fonts/Serif",
-      "Tailwind/Spacing"
+      "Themes/tailwindPurple"
     ]
   }
 }
