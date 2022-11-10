@@ -1037,102 +1037,6 @@
       }
     }
   },
-  "Tailwind/Spacing": {
-    "spacing": {
-      "1": {
-        "value": "1",
-        "type": "spacing"
-      },
-      "2": {
-        "value": "2",
-        "type": "spacing"
-      },
-      "4": {
-        "value": "4",
-        "type": "spacing"
-      },
-      "6": {
-        "value": "6",
-        "type": "spacing"
-      },
-      "8": {
-        "value": "8",
-        "type": "spacing"
-      },
-      "10": {
-        "value": "10",
-        "type": "spacing"
-      },
-      "12": {
-        "value": "12",
-        "type": "spacing"
-      },
-      "14": {
-        "value": "14",
-        "type": "spacing"
-      },
-      "16": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "20": {
-        "value": "20",
-        "type": "spacing"
-      },
-      "24": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "32": {
-        "value": "32",
-        "type": "spacing"
-      },
-      "36": {
-        "value": "36",
-        "type": "spacing"
-      },
-      "40": {
-        "value": "40",
-        "type": "spacing"
-      },
-      "48": {
-        "value": "48",
-        "type": "spacing"
-      },
-      "56": {
-        "value": "56",
-        "type": "spacing"
-      },
-      "64": {
-        "value": "64",
-        "type": "spacing"
-      },
-      "80": {
-        "value": "80",
-        "type": "spacing"
-      },
-      "96": {
-        "value": "96",
-        "type": "spacing"
-      },
-      "112": {
-        "value": "112",
-        "type": "spacing"
-      },
-      "128": {
-        "value": "128",
-        "type": "spacing"
-      },
-      "144": {
-        "value": "144",
-        "type": "spacing"
-      },
-      "160": {
-        "value": "160",
-        "type": "spacing"
-      }
-    }
-  },
   "Tailwind/Typography": {
     "fontFamilies": {
       "font-sans": {
@@ -1273,14 +1177,8 @@
     }
   },
   "Dope Fonts/Sans": {
-    "Promixa Nova": {
-      "value": "Promixa Nova",
-      "type": "fontFamilies"
-    }
-  },
-  "Dope Fonts/Serif": {
-    "Fira Code": {
-      "value": "Fira Code",
+    "Proxima Nova": {
+      "value": "Proxima Nova",
       "type": "fontFamilies"
     }
   },
@@ -2120,6 +2018,108 @@
       }
     }
   },
+  "Dope Fonts/Serif": {
+    "Fira Code": {
+      "value": "Fira Code",
+      "type": "fontFamilies"
+    }
+  },
+  "Tailwind/Spacing": {
+    "spacing": {
+      "1": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "2": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "6": {
+        "value": "6",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "10": {
+        "value": "10",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "14": {
+        "value": "14",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "32": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "36": {
+        "value": "36",
+        "type": "spacing"
+      },
+      "40": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "48": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "56": {
+        "value": "56",
+        "type": "spacing"
+      },
+      "64": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "80": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "96": {
+        "value": "96",
+        "type": "spacing"
+      },
+      "112": {
+        "value": "112",
+        "type": "spacing"
+      },
+      "128": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "144": {
+        "value": "144",
+        "type": "spacing"
+      },
+      "160": {
+        "value": "160",
+        "type": "spacing"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -2136,7 +2136,9 @@
       "Themes/A",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
-      "Themes/tailwindPurple"
+      "Themes/tailwindPurple",
+      "Dope Fonts/Serif",
+      "Tailwind/Spacing"
     ]
   }
 }
