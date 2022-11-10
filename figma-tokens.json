@@ -1396,7 +1396,7 @@
     }
   },
   "tailwind/styles": {
-    "tailwind-red": {
+    "twRed": {
       "50": {
         "value": "#fef2f2",
         "type": "color"
