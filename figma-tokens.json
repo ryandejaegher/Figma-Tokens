@@ -1361,13 +1361,13 @@
   "$metadata": {
     "tokenSetOrder": [
       "Tailwind/Colors",
+      "Tailwind/Sizing",
+      "Tailwind/Typography",
       "monoFont",
       "sfFont",
       "futuraFont",
       "interfont",
       "bisonFont",
-      "Tailwind/Sizing",
-      "Tailwind/Typography",
       "Themes/A",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
