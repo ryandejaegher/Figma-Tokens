@@ -1,60 +1,4 @@
 {
-  "Tailwind/Typography": {
-    "fontSizes": {
-      "xs": {
-        "value": "$fontSizes.base * 0.75",
-        "type": "fontSizes"
-      },
-      "sm": {
-        "value": "$fontSizes.base *  .875",
-        "type": "fontSizes"
-      },
-      "base": {
-        "value": "16 * 1",
-        "type": "fontSizes"
-      },
-      "lg": {
-        "value": "$fontSizes.base * 1.125",
-        "type": "fontSizes"
-      },
-      "xl": {
-        "value": "$fontSizes.base * 1.25",
-        "type": "fontSizes"
-      },
-      "2xl": {
-        "value": "$fontSizes.base * 1.5",
-        "type": "fontSizes"
-      },
-      "3xl": {
-        "value": "$fontSizes.base * 1.875",
-        "type": "fontSizes"
-      },
-      "4xl": {
-        "value": "$fontSizes.base * 2.25",
-        "type": "fontSizes"
-      },
-      "5xl": {
-        "value": "$fontSizes.base * 3",
-        "type": "fontSizes"
-      },
-      "6xl": {
-        "value": "$fontSizes.base * 3.75",
-        "type": "fontSizes"
-      },
-      "7xl": {
-        "value": "$fontSizes.base * 4.5",
-        "type": "fontSizes"
-      },
-      "8xl": {
-        "value": "$fontSizes.base * 6",
-        "type": "fontSizes"
-      },
-      "9xl": {
-        "value": "$fontSizes.base * 8",
-        "type": "fontSizes"
-      }
-    }
-  },
   "Tailwind/Colors": {
     "transparent": {
       "value": "#00000000",
@@ -405,6 +349,46 @@
       }
     }
   },
+  "monoFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Fira Mono",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "sfFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "SF Pro Text",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "futuraFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Futura",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "interfont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "bisonFont": {
+    "fontFamilies": {
+      "Primary": {
+        "value": "Bison",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "Tailwind/Sizing": {
     "sizing": {
       "1": {
@@ -502,6 +486,62 @@
       "Container": {
         "value": "1280",
         "type": "sizing"
+      }
+    }
+  },
+  "Tailwind/Typography": {
+    "fontSizes": {
+      "xs": {
+        "value": "$fontSizes.base * 0.75",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "$fontSizes.base *  .875",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "16 * 1",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "$fontSizes.base * 1.125",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "$fontSizes.base * 1.25",
+        "type": "fontSizes"
+      },
+      "2xl": {
+        "value": "$fontSizes.base * 1.5",
+        "type": "fontSizes"
+      },
+      "3xl": {
+        "value": "$fontSizes.base * 1.875",
+        "type": "fontSizes"
+      },
+      "4xl": {
+        "value": "$fontSizes.base * 2.25",
+        "type": "fontSizes"
+      },
+      "5xl": {
+        "value": "$fontSizes.base * 3",
+        "type": "fontSizes"
+      },
+      "6xl": {
+        "value": "$fontSizes.base * 3.75",
+        "type": "fontSizes"
+      },
+      "7xl": {
+        "value": "$fontSizes.base * 4.5",
+        "type": "fontSizes"
+      },
+      "8xl": {
+        "value": "$fontSizes.base * 6",
+        "type": "fontSizes"
+      },
+      "9xl": {
+        "value": "$fontSizes.base * 8",
+        "type": "fontSizes"
       }
     }
   },
@@ -1179,52 +1219,6 @@
       }
     }
   },
-  "Themes/tailwindPurple": {
-    "colors": {
-      "Primary": {
-        "50": {
-          "value": "{purple.50}",
-          "type": "color"
-        },
-        "100": {
-          "value": "{purple.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{purple.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{purple.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{purple.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{purple.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{purple.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{purple.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{purple.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{purple.900}",
-          "type": "color"
-        }
-      }
-    }
-  },
   "Themes/tailwindBlue": {
     "colors": {
       "Primary": {
@@ -1317,60 +1311,67 @@
       }
     }
   },
-  "monoFont": {
-    "fontFamilies": {
+  "Themes/tailwindPurple": {
+    "colors": {
       "Primary": {
-        "value": "Fira Mono",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "sfFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "SF Pro Text",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "futuraFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Futura",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "interfont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Inter",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "bisonFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Bison",
-        "type": "fontFamilies"
+        "50": {
+          "value": "{purple.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{purple.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{purple.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{purple.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{purple.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{purple.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{purple.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{purple.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{purple.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{purple.900}",
+          "type": "color"
+        }
       }
     }
   },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Tailwind/Styles",
       "Tailwind/Colors",
-      "Global",
       "monoFont",
       "sfFont",
       "futuraFont",
       "interfont",
       "bisonFont",
-      "tailwindPurple",
-      "tailwindBlue",
-      "tailwindPink"
+      "Tailwind/Sizing",
+      "Tailwind/Typography",
+      "Themes/A",
+      "Themes/tailwindBlue",
+      "Themes/tailwindPink",
+      "Themes/tailwindPurple"
     ]
   }
 }
