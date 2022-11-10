@@ -1272,7 +1272,18 @@
       }
     }
   },
-  "Dope Fonts/Sans": {},
+  "Dope Fonts/Sans": {
+    "Promixa Nova": {
+      "value": "Promixa Nova",
+      "type": "fontFamilies"
+    }
+  },
+  "Dope Fonts/Serif": {
+    "Fira Code": {
+      "value": "Fira Code",
+      "type": "fontFamilies"
+    }
+  },
   "Dope Fonts/Mono": {
     "Fira Code": {
       "value": "Fira Code",
@@ -2115,6 +2126,8 @@
       "Tailwind/Colors",
       "Tailwind/Sizing",
       "Tailwind/Typography",
+      "Dope Fonts/Sans",
+      "Dope Fonts/Mono",
       "monoFont",
       "sfFont",
       "futuraFont",
