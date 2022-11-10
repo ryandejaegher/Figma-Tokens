@@ -1219,139 +1219,139 @@
       }
     }
   },
-  "tailwindPurple": {
+  "Themes/tailwindPurple": {
     "colors": {
       "Primary": {
         "50": {
-          "value": "$colors.purple.50",
+          "value": "{purple.50}",
           "type": "color"
         },
         "100": {
-          "value": "$colors.purple.100",
+          "value": "{purple.100}",
           "type": "color"
         },
         "200": {
-          "value": "$colors.purple.200",
+          "value": "{purple.200}",
           "type": "color"
         },
         "300": {
-          "value": "$colors.purple.300",
+          "value": "{purple.300}",
           "type": "color"
         },
         "400": {
-          "value": "$colors.purple.400",
+          "value": "{purple.400}",
           "type": "color"
         },
         "500": {
-          "value": "$colors.purple.500",
+          "value": "{purple.500}",
           "type": "color"
         },
         "600": {
-          "value": "$colors.purple.600",
+          "value": "{purple.600}",
           "type": "color"
         },
         "700": {
-          "value": "$colors.purple.700",
+          "value": "{purple.700}",
           "type": "color"
         },
         "800": {
-          "value": "$colors.purple.800",
+          "value": "{purple.800}",
           "type": "color"
         },
         "900": {
-          "value": "$colors.purple.900",
+          "value": "{purple.900}",
           "type": "color"
         }
       }
     }
   },
-  "tailwindBlue": {
+  "Themes/tailwindBlue": {
     "colors": {
       "Primary": {
         "50": {
-          "value": "$colors.blue.50",
+          "value": "{blue.50}",
           "type": "color"
         },
         "100": {
-          "value": "$colors.blue.100",
+          "value": "{blue.100}",
           "type": "color"
         },
         "200": {
-          "value": "$colors.blue.200",
+          "value": "{blue.200}",
           "type": "color"
         },
         "300": {
-          "value": "$colors.blue.300",
+          "value": "{blue.300}",
           "type": "color"
         },
         "400": {
-          "value": "$colors.blue.400",
+          "value": "{blue.400}",
           "type": "color"
         },
         "500": {
-          "value": "$colors.blue.500",
+          "value": "{blue.500}",
           "type": "color"
         },
         "600": {
-          "value": "$colors.blue.600",
+          "value": "{blue.600}",
           "type": "color"
         },
         "700": {
-          "value": "$colors.blue.700",
+          "value": "{blue.700}",
           "type": "color"
         },
         "800": {
-          "value": "$colors.blue.800",
+          "value": "{blue.800}",
           "type": "color"
         },
         "900": {
-          "value": "$colors.blue.900",
+          "value": "{blue.900}",
           "type": "color"
         }
       }
     }
   },
-  "tailwindPink": {
+  "Themes/tailwindPink": {
     "colors": {
       "Primary": {
         "50": {
-          "value": "$colors.pink.50",
+          "value": "{pink.50}",
           "type": "color"
         },
         "100": {
-          "value": "$colors.pink.100",
+          "value": "{pink.100}",
           "type": "color"
         },
         "200": {
-          "value": "$colors.pink.200",
+          "value": "{pink.200}",
           "type": "color"
         },
         "300": {
-          "value": "$colors.pink.300",
+          "value": "{pink.300}",
           "type": "color"
         },
         "400": {
-          "value": "$colors.pink.400",
+          "value": "{pink.400}",
           "type": "color"
         },
         "500": {
-          "value": "$colors.pink.500",
+          "value": "{pink.500}",
           "type": "color"
         },
         "600": {
-          "value": "$colors.pink.600",
+          "value": "{pink.600}",
           "type": "color"
         },
         "700": {
-          "value": "$colors.pink.700",
+          "value": "{pink.700}",
           "type": "color"
         },
         "800": {
-          "value": "$colors.pink.800",
+          "value": "{pink.800}",
           "type": "color"
         },
         "900": {
-          "value": "$colors.pink.900",
+          "value": "{pink.900}",
           "type": "color"
         }
       }
