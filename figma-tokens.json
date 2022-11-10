@@ -2292,6 +2292,84 @@
       }
     }
   },
+  "Themes/STHM-2022": {
+    "fontFamilies": {
+      "Roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "Roboto Condensed": {
+        "value": "Roboto Condensed",
+        "type": "fontFamilies"
+      },
+      "Faustina": {
+        "value": "Faustina",
+        "type": "fontFamilies"
+      },
+      "URW DIN": {
+        "value": "URW DIN",
+        "type": "fontFamilies"
+      }
+    },
+    "colors": {
+      "cherry": {
+        "type": "color",
+        "value": "rgba(164, 30, 55, 1)"
+      },
+      "charcoal": {
+        "type": "color",
+        "value": "rgba(33, 33, 33, 1)"
+      },
+      "charcoal-light": {
+        "type": "color",
+        "value": "rgba(105, 112, 119, 1)"
+      },
+      "blue-dark": {
+        "type": "color",
+        "value": "rgba(34, 39, 109, 1)"
+      },
+      "blue-icy": {
+        "type": "color",
+        "value": "rgba(197, 234, 247, 1)"
+      },
+      "blue-steel": {
+        "type": "color",
+        "value": "rgba(92, 132, 163, 1)"
+      },
+      "eggshell": {
+        "type": "color",
+        "value": "rgba(241, 235, 228, 1)"
+      },
+      "geranium": {
+        "type": "color",
+        "value": "rgba(237, 33, 40, 1)"
+      },
+      "lime": {
+        "type": "color",
+        "value": "rgba(194, 208, 67, 1)"
+      },
+      "ochre": {
+        "type": "color",
+        "value": "rgba(255, 171, 46, 1)"
+      },
+      "taupe": {
+        "type": "color",
+        "value": "rgba(183, 155, 123, 1)"
+      },
+      "taupe-light": {
+        "type": "color",
+        "value": "rgba(241, 236, 228, 1)"
+      },
+      "taupe-lighter": {
+        "type": "color",
+        "value": "rgba(242, 239, 232, 1)"
+      },
+      "white": {
+        "type": "color",
+        "value": "rgba(255, 255, 255, 1)"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -2310,7 +2388,8 @@
       "Themes/A",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
-      "Themes/tailwindPurple"
+      "Themes/tailwindPurple",
+      "Themes/STHM"
     ]
   }
 }
