@@ -1277,6 +1277,10 @@
       "value": "Proxima Nova",
       "type": "fontFamilies"
     },
+    "Alegreya Sans": {
+      "value": "Alegreya Sans",
+      "type": "fontFamilies"
+    },
     "Acumin Pro": {
       "value": "Acumin Pro",
       "type": "fontFamilies"
@@ -1313,6 +1317,10 @@
       "value": "Neue Haas Unica W1G",
       "type": "fontFamilies"
     },
+    "Karla": {
+      "value": "Karla",
+      "type": "fontFamilies"
+    },
     "Nimbus Sans": {
       "value": "Nimbus Sans",
       "type": "fontFamilies"
@@ -1333,6 +1341,22 @@
       "value": "PT Sans Pro",
       "type": "fontFamilies"
     },
+    "Overpass": {
+      "value": "Overpass",
+      "type": "fontFamilies"
+    },
+    "Work Sans": {
+      "value": "Work Sans",
+      "type": "fontFamilies"
+    },
+    "Open Sans": {
+      "value": "Open Sans",
+      "type": "fontFamilies"
+    },
+    "Public Sans": {
+      "value": "Public Sans",
+      "type": "fontFamilies"
+    },
     "Stratos": {
       "value": "Stratos",
       "type": "fontFamilies"
@@ -1343,8 +1367,24 @@
       "value": "Adobe Caslon Pro",
       "type": "fontFamilies"
     },
+    "Alegreya": {
+      "value": "Alegreya",
+      "type": "fontFamilies"
+    },
+    "Bodoni URW": {
+      "value": "Bodoni URW",
+      "type": "fontFamilies"
+    },
+    "Baskerville URW": {
+      "value": "Baskerville URW",
+      "type": "fontFamilies"
+    },
     "Calluna": {
       "value": "Calluna",
+      "type": "fontFamilies"
+    },
+    "Crimson Pro": {
+      "value": "Crimson Pro",
       "type": "fontFamilies"
     },
     "Adobe Garamond Pro": {
@@ -1359,6 +1399,14 @@
       "value": "Bennet Banner",
       "type": "fontFamilies"
     },
+    "Lora": {
+      "value": "Lora",
+      "type": "fontFamilies"
+    },
+    "Libre Baskerville": {
+      "value": "Libre Baskerville",
+      "type": "fontFamilies"
+    },
     "Meno Display": {
       "value": "Meno Display",
       "type": "fontFamilies"
@@ -1371,8 +1419,12 @@
       "value": "PT Serif Pro",
       "type": "fontFamilies"
     },
-    "PLantin MT Pro": {
-      "value": "PLantin MT Pro",
+    "Plantin MT Pro": {
+      "value": "Plantin MT Pro",
+      "type": "fontFamilies"
+    },
+    "Playfair Display": {
+      "value": "Playfair Display",
       "type": "fontFamilies"
     }
   },
