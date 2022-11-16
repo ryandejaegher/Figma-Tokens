@@ -1462,46 +1462,6 @@
       "type": "fontFamilies"
     }
   },
-  "monoFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Fira Mono",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "sfFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "SF Pro Text",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "futuraFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Futura",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "interfont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Inter",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "bisonFont": {
-    "fontFamilies": {
-      "Primary": {
-        "value": "Bison",
-        "type": "fontFamilies"
-      }
-    }
-  },
   "Themes/A": {
     "colors": {
       "Primary": {
