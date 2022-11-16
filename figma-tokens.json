@@ -1648,7 +1648,7 @@
           "type": "fontSizes"
         }
       },
-      "mobile": {
+      "desktop/mobile": {
         "display-1": {
           "value": "{fontSizes.4xl}",
           "type": "fontSizes"
