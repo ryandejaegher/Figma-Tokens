@@ -1614,7 +1614,7 @@
       }
     },
     "landing-page": {
-      "desktop": {
+      "desktop/display": {
         "display-1": {
           "value": "{fontSizes.9xl}",
           "type": "fontSizes"
