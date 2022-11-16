@@ -1614,7 +1614,7 @@
       }
     },
     "landing-page": {
-      "desktop/display": {
+      "desktop": {
         "display-1": {
           "value": "{fontSizes.9xl}",
           "type": "fontSizes"
@@ -1648,7 +1648,7 @@
           "type": "fontSizes"
         }
       },
-      "desktop/mobile": {
+      "mobile": {
         "display-1": {
           "value": "{fontSizes.4xl}",
           "type": "fontSizes"
