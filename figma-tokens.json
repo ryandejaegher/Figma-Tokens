@@ -1557,6 +1557,12 @@
           "value": "#fff",
           "type": "color"
         }
+      },
+      "State": {
+        "success": {
+          "value": "#fff",
+          "type": "color"
+        }
       }
     },
     "spacing": {
@@ -1591,6 +1597,10 @@
     },
     "fontFamilies": {
       "Primary": {
+        "value": "Fira Code",
+        "type": "fontFamilies"
+      },
+      "Secondary": {
         "value": "Fira Code",
         "type": "fontFamilies"
       }
@@ -1646,23 +1656,109 @@
         "headline-4": {
           "value": "{fontSizes.2xl}",
           "type": "fontSizes"
+        },
+        "body-1": {
+          "value": "{fontSizes.4xl}",
+          "type": "fontSizes"
+        },
+        "body-2": {
+          "value": "{fontSizes.3xl}",
+          "type": "fontSizes"
+        },
+        "body-3": {
+          "value": "{fontSizes.2xl}",
+          "type": "fontSizes"
+        }
+      },
+      "tablet": {
+        "display-1": {
+          "value": "{fontSizes.9xl}",
+          "type": "fontSizes"
+        },
+        "display-2": {
+          "value": "{fontSizes.8xl}",
+          "type": "fontSizes"
+        },
+        "display-3": {
+          "value": "{fontSizes.7xl}",
+          "type": "fontSizes"
+        },
+        "display-4": {
+          "value": "{fontSizes.6xl}",
+          "type": "fontSizes"
+        },
+        "headline-1": {
+          "value": "{fontSizes.5xl}",
+          "type": "fontSizes"
+        },
+        "headline-2": {
+          "value": "{fontSizes.4xl}",
+          "type": "fontSizes"
+        },
+        "headline-3": {
+          "value": "{fontSizes.3xl}",
+          "type": "fontSizes"
+        },
+        "headline-4": {
+          "value": "{fontSizes.2xl}",
+          "type": "fontSizes"
+        },
+        "body-1": {
+          "value": "{fontSizes.4xl}",
+          "type": "fontSizes"
+        },
+        "body-2": {
+          "value": "{fontSizes.3xl}",
+          "type": "fontSizes"
+        },
+        "body-3": {
+          "value": "{fontSizes.2xl}",
+          "type": "fontSizes"
         }
       },
       "mobile": {
         "display-1": {
-          "value": "{fontSizes.4xl}",
+          "value": "{fontSizes.9xl}",
           "type": "fontSizes"
         },
         "display-2": {
-          "value": "{fontSizes.4xl}",
+          "value": "{fontSizes.8xl}",
           "type": "fontSizes"
         },
         "display-3": {
-          "value": "{fontSizes.4xl}",
+          "value": "{fontSizes.7xl}",
           "type": "fontSizes"
         },
         "display-4": {
+          "value": "{fontSizes.6xl}",
+          "type": "fontSizes"
+        },
+        "headline-1": {
+          "value": "{fontSizes.5xl}",
+          "type": "fontSizes"
+        },
+        "headline-2": {
           "value": "{fontSizes.4xl}",
+          "type": "fontSizes"
+        },
+        "headline-3": {
+          "value": "{fontSizes.3xl}",
+          "type": "fontSizes"
+        },
+        "headline-4": {
+          "value": "{fontSizes.2xl}",
+          "type": "fontSizes"
+        },
+        "body-1": {
+          "value": "{fontSizes.4xl}",
+          "type": "fontSizes"
+        },
+        "body-2": {
+          "value": "{fontSizes.3xl}",
+          "type": "fontSizes"
+        },
+        "body-3": {
+          "value": "{fontSizes.2xl}",
           "type": "fontSizes"
         }
       }
