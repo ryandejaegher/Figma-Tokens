@@ -1613,6 +1613,14 @@
         "type": "borderWidth"
       }
     },
+    "landing-page": {
+      "desktop": {
+        "display-1": {
+          "value": "{fontSizes.4xl}",
+          "type": "fontSizes"
+        }
+      }
+    },
     "content": {
       "mobile": {
         "h1": {
