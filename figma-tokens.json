@@ -1218,6 +1218,10 @@
         "value": "24",
         "type": "spacing"
       },
+      "28": {
+        "value": "28",
+        "type": "spacing"
+      },
       "32": {
         "value": "32",
         "type": "spacing"
@@ -1228,6 +1232,10 @@
       },
       "40": {
         "value": "40",
+        "type": "spacing"
+      },
+      "44": {
+        "value": "44",
         "type": "spacing"
       },
       "48": {
@@ -1264,6 +1272,26 @@
       },
       "160": {
         "value": "160",
+        "type": "spacing"
+      },
+      "176": {
+        "value": "176",
+        "type": "spacing"
+      },
+      "192": {
+        "value": "192",
+        "type": "spacing"
+      },
+      "208": {
+        "value": "208",
+        "type": "spacing"
+      },
+      "224": {
+        "value": "224",
+        "type": "spacing"
+      },
+      "240": {
+        "value": "240",
         "type": "spacing"
       }
     }
