@@ -1462,6 +1462,22 @@
       "type": "fontFamilies"
     }
   },
+  "Base": {
+    "Components": {
+      "Button/Small": {
+        "value": "{spacing.24} {spacing.12}",
+        "type": "spacing"
+      },
+      "Button/Medium": {
+        "value": "{spacing.24} {spacing.12}",
+        "type": "spacing"
+      },
+      "Button/Large": {
+        "value": "{spacing.24} {spacing.12}",
+        "type": "spacing"
+      }
+    }
+  },
   "Themes/ColorTheme/A": {
     "colors": {
       "Primary": {
