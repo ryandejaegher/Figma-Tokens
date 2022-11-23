@@ -1464,6 +1464,10 @@
   },
   "Base": {
     "Button": {
+      "State/Hover": {
+        "value": "{Primary.500}",
+        "type": "color"
+      },
       "Size": {
         "Small": {
           "value": "{spacing.24} {spacing.12}",
