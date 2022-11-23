@@ -3249,11 +3249,11 @@
       },
       "Size": {
         "Small": {
-          "value": "{spacing.24} {spacing.12}",
+          "value": "{spacing.4} {spacing.12}",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{spacing.24} {spacing.12}",
+          "value": "{spacing.8} {spacing.20}",
           "type": "spacing"
         },
         "Large": {
