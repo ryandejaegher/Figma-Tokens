@@ -1458,50 +1458,6 @@
       "type": "fontFamilies"
     }
   },
-  "Base": {
-    "Button": {
-      "Type": {
-        "value": {
-          "fontFamily": "{fontFamilies.Roboto} {fontFamilies.font-sans}",
-          "fontSize": "{fontSizes.lg}",
-          "fontWeight": "{fontWeights.Semibold}"
-        },
-        "type": "typography"
-      },
-      "State": {
-        "Default": {
-          "value": "{colors.Primary.500}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{colors.Primary.400}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{colors.Primary.600}",
-          "type": "color"
-        }
-      },
-      "Size": {
-        "Small": {
-          "value": "{spacing.24} {spacing.12}",
-          "type": "spacing"
-        },
-        "Medium": {
-          "value": "{spacing.24} {spacing.12}",
-          "type": "spacing"
-        },
-        "Large": {
-          "value": "{spacing.24} {spacing.12}",
-          "type": "spacing"
-        }
-      },
-      "Gap": {
-        "value": "{spacing.16}",
-        "type": "spacing"
-      }
-    }
-  },
   "Themes/tailwindBlue": {
     "colors": {
       "Primary": {
@@ -3267,6 +3223,50 @@
       "type": "typography"
     }
   },
+  "Base": {
+    "Button": {
+      "Type": {
+        "value": {
+          "fontFamily": "{fontFamilies.font-sans}",
+          "fontSize": "{fontSizes.lg}",
+          "fontWeight": "{fontWeights.Regular}"
+        },
+        "type": "typography"
+      },
+      "State": {
+        "Default": {
+          "value": "{colors.Primary.500}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{colors.Primary.400}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{colors.Primary.600}",
+          "type": "color"
+        }
+      },
+      "Size": {
+        "Small": {
+          "value": "{spacing.24} {spacing.12}",
+          "type": "spacing"
+        },
+        "Medium": {
+          "value": "{spacing.24} {spacing.12}",
+          "type": "spacing"
+        },
+        "Large": {
+          "value": "{spacing.24} {spacing.12}",
+          "type": "spacing"
+        }
+      },
+      "Gap": {
+        "value": "{spacing.16}",
+        "type": "spacing"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -3277,7 +3277,6 @@
       "Dope Fonts/Serif",
       "Dope Fonts/Sans",
       "Dope Fonts/Mono",
-      "Base",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
       "Themes/tailwindPurple",
@@ -3285,7 +3284,8 @@
       "Themes/ColorTheme/A",
       "Themes/ColorTheme/B",
       "Themes/TypeTheme/A",
-      "Themes/TypeTheme/B"
+      "Themes/TypeTheme/B",
+      "Base"
     ]
   }
 }
