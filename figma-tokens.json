@@ -1462,7 +1462,7 @@
       "type": "fontFamilies"
     }
   },
-  "Themes/A": {
+  "Themes/ColorTheme/A": {
     "colors": {
       "Primary": {
         "50": {
@@ -2264,7 +2264,7 @@
       }
     }
   },
-  "Themes/B": {
+  "Themes/ColorTheme/B": {
     "colors": {
       "Primary": {
         "50": {
@@ -3186,7 +3186,7 @@
       }
     }
   },
-  "Themes/Type/A": {
+  "Themes/TypeTheme/A": {
     "PersonCard/Heading": {
       "small": {
         "value": {
