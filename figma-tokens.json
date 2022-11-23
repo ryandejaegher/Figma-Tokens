@@ -1465,7 +1465,7 @@
   "Base": {
     "Button": {
       "State/Hover": {
-        "value": "{Primary.500}",
+        "value": "{colors.Primary.500}",
         "type": "color"
       },
       "Size": {
