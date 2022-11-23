@@ -3211,7 +3211,7 @@
       "type": "typography"
     }
   },
-  "Themes/Type/B": {
+  "Themes/TypeTheme/B": {
     "PersonCardHeading": {
       "value": {
         "fontFamily": "{fontFamilies.font-sans}",
@@ -3237,13 +3237,10 @@
       "Dope Fonts/Serif",
       "Dope Fonts/Sans",
       "Dope Fonts/Mono",
-      "Themes/A",
-      "Themes/B",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
       "Themes/tailwindPurple",
-      "Themes/STHM-2022",
-      "Themes/Type/A"
+      "Themes/STHM-2022"
     ]
   }
 }
