@@ -1464,6 +1464,14 @@
   },
   "Base": {
     "Button": {
+      "Type": {
+        "value": {
+          "fontFamily": "{fontFamilies.font-sans}",
+          "fontSize": "{fontSizes.lg}",
+          "fontWeight": "{fontWeights.Semibold}"
+        },
+        "type": "typography"
+      },
       "State": {
         "Default": {
           "value": "{colors.Primary.500}",
