@@ -1465,6 +1465,10 @@
   "Base": {
     "Button": {
       "State": {
+        "Default": {
+          "value": "{colors.Primary.500}",
+          "type": "color"
+        },
         "Hover": {
           "value": "{colors.Primary.400}",
           "type": "color"
