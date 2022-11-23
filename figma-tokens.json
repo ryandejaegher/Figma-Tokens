@@ -3292,6 +3292,10 @@
       "Gap": {
         "value": "{spacing.16}",
         "type": "spacing"
+      },
+      "Small": {
+        "value": "4",
+        "type": "borderRadius"
       }
     }
   },
