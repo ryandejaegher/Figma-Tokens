@@ -2975,13 +2975,15 @@
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
         "fontWeight": "{fontWeights.Bold}"
-      }
+      },
+      "type": "typography"
     },
     "PersonCardBody": {
       "value": {
         "fontFamily": "{fontFamilies.Primary}",
         "fontWeight": "{fontWeights.Regular}"
-      }
+      },
+      "type": "typography"
     }
   },
   "Themes/tailwindBlue": {
