@@ -1466,7 +1466,7 @@
     "Button": {
       "Type": {
         "value": {
-          "fontFamily": "{fontFamilies.font-sans}",
+          "fontFamily": "{fontFamilies.Roboto} {fontFamilies.font-sans}",
           "fontSize": "{fontSizes.lg}",
           "fontWeight": "{fontWeights.Semibold}"
         },
