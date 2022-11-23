@@ -2970,6 +2970,20 @@
       }
     }
   },
+  "Themes/Type/A": {
+    "PersonCardHeading": {
+      "value": {
+        "fontFamily": "{fontFamilies.Primary}",
+        "fontWeight": "{fontWeights.Bold}"
+      }
+    },
+    "PersonCardBody": {
+      "value": {
+        "fontFamily": "{fontFamilies.Primary}",
+        "fontWeight": "{fontWeights.Regular}"
+      }
+    }
+  },
   "Themes/tailwindBlue": {
     "colors": {
       "Primary": {
@@ -3196,11 +3210,6 @@
       "Dope Fonts/Serif",
       "Dope Fonts/Sans",
       "Dope Fonts/Mono",
-      "monoFont",
-      "sfFont",
-      "futuraFont",
-      "interfont",
-      "bisonFont",
       "Themes/A",
       "Themes/B",
       "Themes/tailwindBlue",
