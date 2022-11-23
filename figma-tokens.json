@@ -3187,6 +3187,22 @@
     }
   },
   "Themes/Type/A": {
+    "PersonCard/Heading": {
+      "value": {
+        "fontFamily": "{fontFamilies.font-sans}",
+        "fontWeight": "{fontWeights.Bold}"
+      },
+      "type": "typography"
+    },
+    "PersonCard/Body": {
+      "value": {
+        "fontFamily": "{fontFamilies.font-sans}",
+        "fontWeight": "{fontWeights.Regular}"
+      },
+      "type": "typography"
+    }
+  },
+  "Themes/Type/B": {
     "PersonCardHeading": {
       "value": {
         "fontFamily": "{fontFamilies.font-sans}",
