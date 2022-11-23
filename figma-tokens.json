@@ -1464,13 +1464,15 @@
   },
   "Base": {
     "Button": {
-      "State/Hover": {
-        "value": "{colors.Primary.400}",
-        "type": "color"
-      },
-      "State/Active": {
-        "value": "{colors.Primary.600}",
-        "type": "color"
+      "State": {
+        "Hover": {
+          "value": "{colors.Primary.400}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{colors.Primary.600}",
+          "type": "color"
+        }
       },
       "Size": {
         "Small": {
