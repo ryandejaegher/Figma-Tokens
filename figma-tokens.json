@@ -1463,18 +1463,240 @@
     }
   },
   "Base": {
-    "Components": {
-      "Button/Small": {
-        "value": "{spacing.24} {spacing.12}",
-        "type": "spacing"
+    "Button": {
+      "Size": {
+        "Small": {
+          "value": "{spacing.24} {spacing.12}",
+          "type": "spacing"
+        },
+        "Medium": {
+          "value": "{spacing.24} {spacing.12}",
+          "type": "spacing"
+        },
+        "Large": {
+          "value": "{spacing.24} {spacing.12}",
+          "type": "spacing"
+        }
       },
-      "Button/Medium": {
-        "value": "{spacing.24} {spacing.12}",
+      "Gap": {
+        "value": "{spacing.16}",
         "type": "spacing"
+      }
+    }
+  },
+  "Themes/tailwindBlue": {
+    "colors": {
+      "Primary": {
+        "50": {
+          "value": "{blue.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{blue.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{blue.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{blue.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{blue.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{blue.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{blue.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{blue.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{blue.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{blue.900}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Themes/tailwindPink": {
+    "colors": {
+      "Primary": {
+        "50": {
+          "value": "{pink.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{pink.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{pink.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{pink.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{pink.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{pink.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{pink.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{pink.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{pink.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{pink.900}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Themes/tailwindPurple": {
+    "colors": {
+      "Primary": {
+        "50": {
+          "value": "{purple.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{purple.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{purple.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{purple.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{purple.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{purple.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{purple.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{purple.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{purple.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{purple.900}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Themes/STHM-2022": {
+    "fontFamilies": {
+      "Roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
       },
-      "Button/Large": {
-        "value": "{spacing.24} {spacing.12}",
-        "type": "spacing"
+      "Roboto Condensed": {
+        "value": "Roboto Condensed",
+        "type": "fontFamilies"
+      },
+      "Faustina": {
+        "value": "Faustina",
+        "type": "fontFamilies"
+      },
+      "URW DIN": {
+        "value": "URW DIN",
+        "type": "fontFamilies"
+      }
+    },
+    "colors": {
+      "cherry": {
+        "type": "color",
+        "value": "rgba(164, 30, 55, 1)"
+      },
+      "charcoal": {
+        "type": "color",
+        "value": "rgba(33, 33, 33, 1)"
+      },
+      "charcoal-light": {
+        "type": "color",
+        "value": "rgba(105, 112, 119, 1)"
+      },
+      "blue-dark": {
+        "type": "color",
+        "value": "rgba(34, 39, 109, 1)"
+      },
+      "blue-icy": {
+        "type": "color",
+        "value": "rgba(197, 234, 247, 1)"
+      },
+      "blue-steel": {
+        "type": "color",
+        "value": "rgba(92, 132, 163, 1)"
+      },
+      "eggshell": {
+        "type": "color",
+        "value": "rgba(241, 235, 228, 1)"
+      },
+      "geranium": {
+        "type": "color",
+        "value": "rgba(237, 33, 40, 1)"
+      },
+      "lime": {
+        "type": "color",
+        "value": "rgba(194, 208, 67, 1)"
+      },
+      "ochre": {
+        "type": "color",
+        "value": "rgba(255, 171, 46, 1)"
+      },
+      "taupe": {
+        "type": "color",
+        "value": "rgba(183, 155, 123, 1)"
+      },
+      "taupe-light": {
+        "type": "color",
+        "value": "rgba(241, 236, 228, 1)"
+      },
+      "taupe-lighter": {
+        "type": "color",
+        "value": "rgba(242, 239, 232, 1)"
+      },
+      "white": {
+        "type": "color",
+        "value": "rgba(255, 255, 255, 1)"
       }
     }
   },
@@ -2986,222 +3208,6 @@
       }
     }
   },
-  "Themes/tailwindBlue": {
-    "colors": {
-      "Primary": {
-        "50": {
-          "value": "{blue.50}",
-          "type": "color"
-        },
-        "100": {
-          "value": "{blue.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{blue.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{blue.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{blue.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{blue.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{blue.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{blue.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{blue.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{blue.900}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "Themes/tailwindPink": {
-    "colors": {
-      "Primary": {
-        "50": {
-          "value": "{pink.50}",
-          "type": "color"
-        },
-        "100": {
-          "value": "{pink.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{pink.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{pink.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{pink.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{pink.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{pink.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{pink.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{pink.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{pink.900}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "Themes/tailwindPurple": {
-    "colors": {
-      "Primary": {
-        "50": {
-          "value": "{purple.50}",
-          "type": "color"
-        },
-        "100": {
-          "value": "{purple.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{purple.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{purple.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{purple.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{purple.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{purple.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{purple.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{purple.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{purple.900}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "Themes/STHM-2022": {
-    "fontFamilies": {
-      "Roboto": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "Roboto Condensed": {
-        "value": "Roboto Condensed",
-        "type": "fontFamilies"
-      },
-      "Faustina": {
-        "value": "Faustina",
-        "type": "fontFamilies"
-      },
-      "URW DIN": {
-        "value": "URW DIN",
-        "type": "fontFamilies"
-      }
-    },
-    "colors": {
-      "cherry": {
-        "type": "color",
-        "value": "rgba(164, 30, 55, 1)"
-      },
-      "charcoal": {
-        "type": "color",
-        "value": "rgba(33, 33, 33, 1)"
-      },
-      "charcoal-light": {
-        "type": "color",
-        "value": "rgba(105, 112, 119, 1)"
-      },
-      "blue-dark": {
-        "type": "color",
-        "value": "rgba(34, 39, 109, 1)"
-      },
-      "blue-icy": {
-        "type": "color",
-        "value": "rgba(197, 234, 247, 1)"
-      },
-      "blue-steel": {
-        "type": "color",
-        "value": "rgba(92, 132, 163, 1)"
-      },
-      "eggshell": {
-        "type": "color",
-        "value": "rgba(241, 235, 228, 1)"
-      },
-      "geranium": {
-        "type": "color",
-        "value": "rgba(237, 33, 40, 1)"
-      },
-      "lime": {
-        "type": "color",
-        "value": "rgba(194, 208, 67, 1)"
-      },
-      "ochre": {
-        "type": "color",
-        "value": "rgba(255, 171, 46, 1)"
-      },
-      "taupe": {
-        "type": "color",
-        "value": "rgba(183, 155, 123, 1)"
-      },
-      "taupe-light": {
-        "type": "color",
-        "value": "rgba(241, 236, 228, 1)"
-      },
-      "taupe-lighter": {
-        "type": "color",
-        "value": "rgba(242, 239, 232, 1)"
-      },
-      "white": {
-        "type": "color",
-        "value": "rgba(255, 255, 255, 1)"
-      }
-    }
-  },
   "Themes/TypeTheme/A": {
     "PersonCard/Heading": {
       "small": {
@@ -3253,10 +3259,15 @@
       "Dope Fonts/Serif",
       "Dope Fonts/Sans",
       "Dope Fonts/Mono",
+      "Base",
       "Themes/tailwindBlue",
       "Themes/tailwindPink",
       "Themes/tailwindPurple",
-      "Themes/STHM-2022"
+      "Themes/STHM-2022",
+      "Themes/ColorTheme/A",
+      "Themes/ColorTheme/B",
+      "Themes/TypeTheme/A",
+      "Themes/TypeTheme/B"
     ]
   }
 }
