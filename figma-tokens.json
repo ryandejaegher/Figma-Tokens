@@ -3297,6 +3297,14 @@
         "value": "4",
         "type": "borderRadius"
       },
+      "Small-copy": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "999",
+        "type": "borderRadius"
+      },
       "border-sm": {
         "value": "1",
         "type": "borderWidth"
@@ -3308,6 +3316,28 @@
       "border-lg": {
         "value": "4",
         "type": "borderWidth"
+      },
+      "black": {
+        "value": {
+          "x": "4",
+          "y": "4",
+          "blur": "0",
+          "spread": "0",
+          "color": "{black}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "white": {
+        "value": {
+          "x": "4",
+          "y": "4",
+          "blur": "0",
+          "spread": "0",
+          "color": "{white}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "base": {
