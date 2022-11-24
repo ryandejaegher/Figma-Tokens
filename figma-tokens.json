@@ -3297,6 +3297,26 @@
         "value": "4",
         "type": "borderRadius"
       }
+    },
+    "base": {
+      "black": {
+        "value": "{black}",
+        "type": "color"
+      },
+      "white": {
+        "value": "{white}",
+        "type": "color"
+      },
+      "gray": {
+        "50": {
+          "value": "{white}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{white}",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
