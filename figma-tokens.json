@@ -3296,6 +3296,18 @@
       "Small": {
         "value": "4",
         "type": "borderRadius"
+      },
+      "border-sm": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "border-md": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "border-lg": {
+        "value": "4",
+        "type": "borderWidth"
       }
     },
     "base": {
@@ -3305,6 +3317,10 @@
       },
       "white": {
         "value": "{white}",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "{transparent}",
         "type": "color"
       },
       "gray": {
