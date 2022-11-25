@@ -3447,6 +3447,12 @@
           "type": "color"
         }
       }
+    },
+    "overlay": {
+      "dark": {
+        "value": "linear-gradient(45deg, #ffffff 0%, #000000 100%).",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
