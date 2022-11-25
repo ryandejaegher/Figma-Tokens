@@ -3252,6 +3252,60 @@
     }
   },
   "Base": {
+    "SpaceScale": {
+      "spacing-1": {
+        "value": "{spacing.2}",
+        "type": "spacing"
+      },
+      "spacing-2": {
+        "value": "{spacing.4}",
+        "type": "spacing"
+      },
+      "spacing-3": {
+        "value": "{spacing.8}",
+        "type": "spacing"
+      },
+      "spacing-4": {
+        "value": "{spacing.12}",
+        "type": "spacing"
+      },
+      "spacing-5": {
+        "value": "{spacing.16}",
+        "type": "spacing"
+      },
+      "spacing-6": {
+        "value": "{spacing.24}",
+        "type": "spacing"
+      },
+      "spacing-7": {
+        "value": "{spacing.32}",
+        "type": "spacing"
+      },
+      "spacing-8": {
+        "value": "{spacing.40}",
+        "type": "spacing"
+      },
+      "spacing-9": {
+        "value": "{spacing.48}",
+        "type": "spacing"
+      },
+      "spacing-10": {
+        "value": "{spacing.64}",
+        "type": "spacing"
+      },
+      "spacing-11": {
+        "value": "{spacing.80}",
+        "type": "spacing"
+      },
+      "spacing-12": {
+        "value": "{spacing.96}",
+        "type": "spacing"
+      },
+      "spacing-13": {
+        "value": "{spacing.160}",
+        "type": "spacing"
+      }
+    },
     "Button": {
       "Base": {
         "value": {
