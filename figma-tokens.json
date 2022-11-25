@@ -3252,6 +3252,32 @@
     }
   },
   "Base": {
+    "shadow-1-dark": {
+      "value": [
+        {
+          "x": 4,
+          "y": 4,
+          "spread": 0,
+          "color": "{base.black}",
+          "blur": 0,
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "shadow-1-light": {
+      "value": [
+        {
+          "x": 4,
+          "y": 4,
+          "spread": 0,
+          "color": "{base.light}",
+          "blur": 0,
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
     "SpaceScale": {
       "spacing-1": {
         "value": "{spacing.2}",
