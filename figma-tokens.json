@@ -3271,7 +3271,7 @@
           "x": 4,
           "y": 4,
           "spread": 0,
-          "color": "{base.light}",
+          "color": "{base.white}",
           "blur": 0,
           "type": "dropShadow"
         }
