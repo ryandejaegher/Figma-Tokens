@@ -3450,7 +3450,7 @@
     },
     "overlay": {
       "dark": {
-        "value": "linear-gradient(45deg, #ffffff 0%, #000000 100%).",
+        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, #000000 100%)",
         "type": "color"
       }
     }
