@@ -1039,8 +1039,20 @@
         "value": "1280",
         "type": "sizing"
       },
+      "content34em": {
+        "value": "{sizing.REM} * 34",
+        "type": "sizing"
+      },
       "content36em": {
         "value": "{sizing.REM} * 36",
+        "type": "sizing"
+      },
+      "content38em": {
+        "value": "{sizing.REM} * 38",
+        "type": "sizing"
+      },
+      "content40em": {
+        "value": "{sizing.REM} * 40",
         "type": "sizing"
       }
     }
