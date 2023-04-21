@@ -939,6 +939,10 @@
   },
   "Tailwind/Sizing": {
     "sizing": {
+      "REM": {
+        "value": "16",
+        "type": "sizing"
+      },
       "1": {
         "value": "1",
         "type": "sizing"
@@ -1033,6 +1037,10 @@
       },
       "Container": {
         "value": "1280",
+        "type": "sizing"
+      },
+      "content36em": {
+        "value": "{sizing.REM} * 36",
         "type": "sizing"
       }
     }
