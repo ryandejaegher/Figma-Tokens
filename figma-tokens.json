@@ -1648,11 +1648,11 @@
     "shadow-1-dark": {
       "value": [
         {
-          "x": 4,
-          "y": 4,
-          "spread": 0,
+          "x": "4",
+          "y": "4",
+          "spread": "0",
           "color": "{base.black}",
-          "blur": 0,
+          "blur": "0",
           "type": "dropShadow"
         }
       ],
@@ -1661,11 +1661,11 @@
     "shadow-1-light": {
       "value": [
         {
-          "x": 4,
-          "y": 4,
-          "spread": 0,
+          "x": "4",
+          "y": "4",
+          "spread": "0",
           "color": "{base.white}",
-          "blur": 0,
+          "blur": "0",
           "type": "dropShadow"
         }
       ],
@@ -1728,7 +1728,7 @@
     "Button": {
       "Base": {
         "value": {
-          "fontFamily": "{fontFamilies.Primary}, {fontFamilies.font-sans}",
+          "fontFamily": "{fontFamilies.Primary}, {fontFamilies.display}",
           "fontSize": "{fontSizes.lg}",
           "fontWeight": "{fontWeights.Semibold}"
         },
@@ -3396,30 +3396,33 @@
   },
   "Themes/TypeTheme/One": {
     "fontFamilies": {
-      "font-sans": {
+      "display": {
         "value": "Inter",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "Use for headings"
       },
-      "font-serif": {
+      "body": {
         "value": "Faustina",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "Use for the main content (article body, excerpts)"
       },
-      "font-mono": {
+      "mono": {
         "value": "IBM Plex Mono",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "Use for tabular content, and code/syntax highlighting"
       }
     },
     "PersonCard/Heading": {
       "small": {
         "value": {
-          "fontFamily": "{fontFamilies.font-sans}",
+          "fontFamily": "{fontFamilies.display}",
           "fontWeight": "{fontWeights.Bold}"
         },
         "type": "typography"
       },
       "large": {
         "value": {
-          "fontFamily": "{fontFamilies.font-sans}",
+          "fontFamily": "{fontFamilies.display}",
           "fontWeight": "{fontWeights.Bold}"
         },
         "type": "typography"
@@ -3427,7 +3430,7 @@
     },
     "PersonCard/Body": {
       "value": {
-        "fontFamily": "{fontFamilies.font-sans}",
+        "fontFamily": "{fontFamilies.display}",
         "fontWeight": "{fontWeights.Regular}"
       },
       "type": "typography"
@@ -3450,14 +3453,14 @@
     },
     "PersonCardHeading": {
       "value": {
-        "fontFamily": "{fontFamilies.font-sans}",
+        "fontFamily": "{fontFamilies.display}",
         "fontWeight": "{fontWeights.Bold}"
       },
       "type": "typography"
     },
     "PersonCardBody": {
       "value": {
-        "fontFamily": "{fontFamilies.font-sans}",
+        "fontFamily": "{fontFamilies.display}",
         "fontWeight": "{fontWeights.Regular}"
       },
       "type": "typography"
