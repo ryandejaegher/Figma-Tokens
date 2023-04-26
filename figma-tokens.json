@@ -716,122 +716,94 @@
     }
   },
   "Tailwind/Sizing": {
+    "type": "sizing",
     "sizing": {
       "1": {
-        "value": "1",
-        "type": "sizing"
+        "value": "1"
       },
       "2": {
-        "value": "2",
-        "type": "sizing"
+        "value": "2"
       },
       "4": {
-        "value": "4",
-        "type": "sizing"
+        "value": "4"
       },
       "6": {
-        "value": "6",
-        "type": "sizing"
+        "value": "6"
       },
       "8": {
-        "value": "8",
-        "type": "sizing"
+        "value": "8"
       },
       "10": {
-        "value": "10",
-        "type": "sizing"
+        "value": "10"
       },
       "12": {
-        "value": "12",
-        "type": "sizing"
+        "value": "12"
       },
       "14": {
-        "value": "14",
-        "type": "sizing"
+        "value": "14"
       },
       "16": {
-        "value": "16",
-        "type": "sizing"
+        "value": "16"
       },
       "20": {
-        "value": "20",
-        "type": "sizing"
+        "value": "20"
       },
       "24": {
-        "value": "24",
-        "type": "sizing"
+        "value": "24"
       },
       "32": {
-        "value": "32",
-        "type": "sizing"
+        "value": "32"
       },
       "36": {
-        "value": "36",
-        "type": "sizing"
+        "value": "36"
       },
       "40": {
-        "value": "40",
-        "type": "sizing"
+        "value": "40"
       },
       "48": {
-        "value": "48",
-        "type": "sizing"
+        "value": "48"
       },
       "56": {
-        "value": "56",
-        "type": "sizing"
+        "value": "56"
       },
       "64": {
-        "value": "64",
-        "type": "sizing"
+        "value": "64"
       },
       "80": {
-        "value": "80",
-        "type": "sizing"
+        "value": "80"
       },
       "96": {
-        "value": "96",
-        "type": "sizing"
+        "value": "96"
       },
       "112": {
-        "value": "112",
-        "type": "sizing"
+        "value": "112"
       },
       "128": {
-        "value": "128",
-        "type": "sizing"
+        "value": "128"
       },
       "144": {
-        "value": "144",
-        "type": "sizing"
+        "value": "144"
       },
       "160": {
-        "value": "160",
-        "type": "sizing"
+        "value": "160"
       },
       "REM": {
-        "value": "16",
-        "type": "sizing"
+        "value": "16"
       },
       "Container": {
-        "value": "1280",
-        "type": "sizing"
+        "value": "1280"
       },
       "content34em": {
-        "value": "{sizing.REM} * 34",
-        "type": "sizing"
+        "value": "{sizing.REM} * 34"
       },
       "content36em": {
-        "value": "{sizing.REM} * 36",
-        "type": "sizing"
+        "value": "{sizing.REM} * 36"
       },
       "content38em": {
-        "value": "{sizing.REM} * 38",
-        "type": "sizing"
+        "value": "{sizing.REM} * 38"
       },
       "content40em": {
-        "value": "{sizing.REM} * 40",
-        "type": "sizing"
+        "value": "{sizing.REM} * 40"
       }
     }
   },
@@ -851,57 +823,45 @@
       }
     },
     "fontSizes": {
+      "type": "fontSizes",
       "xs": {
-        "value": "$fontSizes.base * 0.75",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 0.75"
       },
       "sm": {
-        "value": "$fontSizes.base *  .875",
-        "type": "fontSizes"
+        "value": "$fontSizes.base *  .875"
       },
       "base": {
-        "value": "16 * 1",
-        "type": "fontSizes"
+        "value": "16 * 1"
       },
       "lg": {
-        "value": "$fontSizes.base * 1.125",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 1.125"
       },
       "xl": {
-        "value": "$fontSizes.base * 1.25",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 1.25"
       },
       "2xl": {
-        "value": "$fontSizes.base * 1.5",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 1.5"
       },
       "3xl": {
-        "value": "$fontSizes.base * 1.875",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 1.875"
       },
       "4xl": {
-        "value": "$fontSizes.base * 2.25",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 2.25"
       },
       "5xl": {
-        "value": "$fontSizes.base * 3",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 3"
       },
       "6xl": {
-        "value": "$fontSizes.base * 3.75",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 3.75"
       },
       "7xl": {
-        "value": "$fontSizes.base * 4.5",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 4.5"
       },
       "8xl": {
-        "value": "$fontSizes.base * 6",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 6"
       },
       "9xl": {
-        "value": "$fontSizes.base * 8",
-        "type": "fontSizes"
+        "value": "$fontSizes.base * 8"
       }
     },
     "fontWeights": {
@@ -971,126 +931,97 @@
     }
   },
   "Tailwind/Spacing": {
+    "type": "spacing",
     "spacing": {
       "1": {
-        "value": "1",
-        "type": "spacing"
+        "value": "1"
       },
       "2": {
-        "value": "2",
-        "type": "spacing"
+        "value": "2"
       },
       "4": {
-        "value": "4",
-        "type": "spacing"
+        "value": "4"
       },
       "6": {
-        "value": "6",
-        "type": "spacing"
+        "value": "6"
       },
       "8": {
-        "value": "8",
-        "type": "spacing"
+        "value": "8"
       },
       "10": {
-        "value": "10",
-        "type": "spacing"
+        "value": "10"
       },
       "12": {
-        "value": "12",
-        "type": "spacing"
+        "value": "12"
       },
       "14": {
-        "value": "14",
-        "type": "spacing"
+        "value": "14"
       },
       "16": {
-        "value": "16",
-        "type": "spacing"
+        "value": "16"
       },
       "20": {
-        "value": "20",
-        "type": "spacing"
+        "value": "20"
       },
       "24": {
-        "value": "24",
-        "type": "spacing"
+        "value": "24"
       },
       "28": {
-        "value": "28",
-        "type": "spacing"
+        "value": "28"
       },
       "32": {
-        "value": "32",
-        "type": "spacing"
+        "value": "32"
       },
       "36": {
-        "value": "36",
-        "type": "spacing"
+        "value": "36"
       },
       "40": {
-        "value": "40",
-        "type": "spacing"
+        "value": "40"
       },
       "44": {
-        "value": "44",
-        "type": "spacing"
+        "value": "44"
       },
       "48": {
-        "value": "48",
-        "type": "spacing"
+        "value": "48"
       },
       "56": {
-        "value": "56",
-        "type": "spacing"
+        "value": "56"
       },
       "64": {
-        "value": "64",
-        "type": "spacing"
+        "value": "64"
       },
       "80": {
-        "value": "80",
-        "type": "spacing"
+        "value": "80"
       },
       "96": {
-        "value": "96",
-        "type": "spacing"
+        "value": "96"
       },
       "112": {
-        "value": "112",
-        "type": "spacing"
+        "value": "112"
       },
       "128": {
-        "value": "128",
-        "type": "spacing"
+        "value": "128"
       },
       "144": {
-        "value": "144",
-        "type": "spacing"
+        "value": "144"
       },
       "160": {
-        "value": "160",
-        "type": "spacing"
+        "value": "160"
       },
       "176": {
-        "value": "176",
-        "type": "spacing"
+        "value": "176"
       },
       "192": {
-        "value": "192",
-        "type": "spacing"
+        "value": "192"
       },
       "208": {
-        "value": "208",
-        "type": "spacing"
+        "value": "208"
       },
       "224": {
-        "value": "224",
-        "type": "spacing"
+        "value": "224"
       },
       "240": {
-        "value": "240",
-        "type": "spacing"
+        "value": "240"
       }
     }
   },
@@ -1286,92 +1217,74 @@
   },
   "Themes/tailwindBlue": {
     "colors": {
+      "type": "color",
       "Primary": {
         "50": {
-          "value": "{blue.50}",
-          "type": "color"
+          "value": "{blue.50}"
         },
         "100": {
-          "value": "{blue.100}",
-          "type": "color"
+          "value": "{blue.100}"
         },
         "200": {
-          "value": "{blue.200}",
-          "type": "color"
+          "value": "{blue.200}"
         },
         "300": {
-          "value": "{blue.300}",
-          "type": "color"
+          "value": "{blue.300}"
         },
         "400": {
-          "value": "{blue.400}",
-          "type": "color"
+          "value": "{blue.400}"
         },
         "500": {
-          "value": "{blue.500}",
-          "type": "color"
+          "value": "{blue.500}"
         },
         "600": {
-          "value": "{blue.600}",
-          "type": "color"
+          "value": "{blue.600}"
         },
         "700": {
-          "value": "{blue.700}",
-          "type": "color"
+          "value": "{blue.700}"
         },
         "800": {
-          "value": "{blue.800}",
-          "type": "color"
+          "value": "{blue.800}"
         },
         "900": {
-          "value": "{blue.900}",
-          "type": "color"
+          "value": "{blue.900}"
         }
       }
     }
   },
   "Themes/tailwindPink": {
     "colors": {
+      "type": "color",
       "Primary": {
         "50": {
-          "value": "{pink.50}",
-          "type": "color"
+          "value": "{pink.50}"
         },
         "100": {
-          "value": "{pink.100}",
-          "type": "color"
+          "value": "{pink.100}"
         },
         "200": {
-          "value": "{pink.200}",
-          "type": "color"
+          "value": "{pink.200}"
         },
         "300": {
-          "value": "{pink.300}",
-          "type": "color"
+          "value": "{pink.300}"
         },
         "400": {
-          "value": "{pink.400}",
-          "type": "color"
+          "value": "{pink.400}"
         },
         "500": {
-          "value": "{pink.500}",
-          "type": "color"
+          "value": "{pink.500}"
         },
         "600": {
-          "value": "{pink.600}",
-          "type": "color"
+          "value": "{pink.600}"
         },
         "700": {
-          "value": "{pink.700}",
-          "type": "color"
+          "value": "{pink.700}"
         },
         "800": {
-          "value": "{pink.800}",
-          "type": "color"
+          "value": "{pink.800}"
         },
         "900": {
-          "value": "{pink.900}",
-          "type": "color"
+          "value": "{pink.900}"
         }
       }
     }
