@@ -153,177 +153,125 @@
         "950": "#0a0a0a"
       }
     },
-    "fontWeights": {
-      "type": "fontWeights",
-      "thin": {
-        "value": 100,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+    "fontFamily": {
+      "type": "fontFamilies",
+      "sans": {
+        "value": [
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "\"Segoe UI\"",
+          "Roboto",
+          "\"Helvetica Neue\"",
+          "Arial",
+          "\"Noto Sans\"",
+          "sans-serif",
+          "\"Apple Color Emoji\"",
+          "\"Segoe UI Emoji\"",
+          "\"Segoe UI Symbol\"",
+          "\"Noto Color Emoji\""
+        ],
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
         "isSource": true,
         "original": {
-          "value": 100
+          "value": [
+            "ui-sans-serif",
+            "system-ui",
+            "-apple-system",
+            "BlinkMacSystemFont",
+            "\"Segoe UI\"",
+            "Roboto",
+            "\"Helvetica Neue\"",
+            "Arial",
+            "\"Noto Sans\"",
+            "sans-serif",
+            "\"Apple Color Emoji\"",
+            "\"Segoe UI Emoji\"",
+            "\"Segoe UI Symbol\"",
+            "\"Noto Color Emoji\""
+          ]
         },
-        "name": "TailwindFontWeightsThin",
+        "name": "TailwindFontFamilySans",
         "attributes": {
           "category": "tailwind",
-          "type": "fontWeights",
-          "item": "thin"
+          "type": "fontFamily",
+          "item": "sans"
         },
         "path": [
           "tailwind",
-          "fontWeights",
-          "thin"
+          "fontFamily",
+          "sans"
         ]
       },
-      "extralight": {
-        "value": 200,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+      "serif": {
+        "value": [
+          "ui-serif",
+          "Georgia",
+          "Cambria",
+          "\"Times New Roman\"",
+          "Times",
+          "serif"
+        ],
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
         "isSource": true,
         "original": {
-          "value": 200
+          "value": [
+            "ui-serif",
+            "Georgia",
+            "Cambria",
+            "\"Times New Roman\"",
+            "Times",
+            "serif"
+          ]
         },
-        "name": "TailwindFontWeightsExtralight",
+        "name": "TailwindFontFamilySerif",
         "attributes": {
           "category": "tailwind",
-          "type": "fontWeights",
-          "item": "extralight"
+          "type": "fontFamily",
+          "item": "serif"
         },
         "path": [
           "tailwind",
-          "fontWeights",
-          "extralight"
+          "fontFamily",
+          "serif"
         ]
       },
-      "light": {
-        "value": 300,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+      "mono": {
+        "value": [
+          "ui-monospace",
+          "SFMono-Regular",
+          "Menlo",
+          "Monaco",
+          "Consolas",
+          "\"Liberation Mono\"",
+          "\"Courier New\"",
+          "monospace"
+        ],
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
         "isSource": true,
         "original": {
-          "value": 300
+          "value": [
+            "ui-monospace",
+            "SFMono-Regular",
+            "Menlo",
+            "Monaco",
+            "Consolas",
+            "\"Liberation Mono\"",
+            "\"Courier New\"",
+            "monospace"
+          ]
         },
-        "name": "TailwindFontWeightsLight",
+        "name": "TailwindFontFamilyMono",
         "attributes": {
           "category": "tailwind",
-          "type": "fontWeights",
-          "item": "light"
+          "type": "fontFamily",
+          "item": "mono"
         },
         "path": [
           "tailwind",
-          "fontWeights",
-          "light"
-        ]
-      },
-      "normal": {
-        "value": 400,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 400
-        },
-        "name": "TailwindFontWeightsNormal",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "normal"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "normal"
-        ]
-      },
-      "medium": {
-        "value": 500,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 500
-        },
-        "name": "TailwindFontWeightsMedium",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "medium"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "medium"
-        ]
-      },
-      "semibold": {
-        "value": 600,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 600
-        },
-        "name": "TailwindFontWeightsSemibold",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "semibold"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "semibold"
-        ]
-      },
-      "bold": {
-        "value": 700,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 700
-        },
-        "name": "TailwindFontWeightsBold",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "bold"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "bold"
-        ]
-      },
-      "extrabold": {
-        "value": 800,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 800
-        },
-        "name": "TailwindFontWeightsExtrabold",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "extrabold"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "extrabold"
-        ]
-      },
-      "black": {
-        "value": 900,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 900
-        },
-        "name": "TailwindFontWeightsBlack",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "black"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "black"
+          "fontFamily",
+          "mono"
         ]
       }
     },
@@ -613,6 +561,180 @@
           "tailwind",
           "fontSize",
           "9xl"
+        ]
+      }
+    },
+    "fontWeights": {
+      "type": "fontWeights",
+      "thin": {
+        "value": 100,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 100
+        },
+        "name": "TailwindFontWeightsThin",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "thin"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "thin"
+        ]
+      },
+      "extralight": {
+        "value": 200,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 200
+        },
+        "name": "TailwindFontWeightsExtralight",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "extralight"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "extralight"
+        ]
+      },
+      "light": {
+        "value": 300,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 300
+        },
+        "name": "TailwindFontWeightsLight",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "light"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "light"
+        ]
+      },
+      "normal": {
+        "value": 400,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 400
+        },
+        "name": "TailwindFontWeightsNormal",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "normal"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "normal"
+        ]
+      },
+      "medium": {
+        "value": 500,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 500
+        },
+        "name": "TailwindFontWeightsMedium",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "medium"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "medium"
+        ]
+      },
+      "semibold": {
+        "value": 600,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 600
+        },
+        "name": "TailwindFontWeightsSemibold",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "semibold"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "semibold"
+        ]
+      },
+      "bold": {
+        "value": 700,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 700
+        },
+        "name": "TailwindFontWeightsBold",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "bold"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "bold"
+        ]
+      },
+      "extrabold": {
+        "value": 800,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 800
+        },
+        "name": "TailwindFontWeightsExtrabold",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "extrabold"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "extrabold"
+        ]
+      },
+      "black": {
+        "value": 900,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 900
+        },
+        "name": "TailwindFontWeightsBlack",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "black"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "black"
         ]
       }
     },

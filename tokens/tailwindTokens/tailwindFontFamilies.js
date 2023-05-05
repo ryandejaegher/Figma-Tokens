@@ -1,21 +1,20 @@
 const colors = require('tailwindcss/colors');
 const defaultTheme = require('tailwindcss/defaultTheme');
 
-const tailwindFontWeights = Object.keys(defaultTheme.fontWeight);
-console.log('weights', tailwindFontWeights);
+const tailwindFontFamily = Object.entries(defaultTheme.fontFamily);
 
-const fontWeightObj = tailwindFontWeights.reduce((acc, key, index) => {
+const fontFamilyObj = tailwindFontFamily.reduce((acc, [key, value], index) => {
   acc[key] = {
-    value: (index + 1) * 100,
+    value: value,
   };
   return acc;
 }, {});
 
 module.exports = {
   tailwind: {
-    fontWeights: {
-      type: 'fontWeights',
-      ...fontWeightObj,
+    fontFamily: {
+      type: 'fontFamilies',
+      ...fontFamilyObj,
     },
   },
 };

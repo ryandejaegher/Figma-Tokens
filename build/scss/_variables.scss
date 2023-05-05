@@ -1,21 +1,15 @@
 
 // Do not edit directly
-// Generated on Fri, 05 May 2023 21:17:23 GMT
+// Generated on Fri, 05 May 2023 21:22:48 GMT
 
 $components-button-button: 1.5rem;
 $size-font-small: 0.75rem; // the small size of the font
 $size-font-medium: 1rem; // the medium size of the font
 $size-font-large: 2rem; // the large size of the font
 $size-font-base: 1rem; // the base size of the font
-$tailwind-font-weights-thin: 100;
-$tailwind-font-weights-extralight: 200;
-$tailwind-font-weights-light: 300;
-$tailwind-font-weights-normal: 400;
-$tailwind-font-weights-medium: 500;
-$tailwind-font-weights-semibold: 600;
-$tailwind-font-weights-bold: 700;
-$tailwind-font-weights-extrabold: 800;
-$tailwind-font-weights-black: 900;
+$tailwind-font-family-sans: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+$tailwind-font-family-serif: ui-serif,Georgia,Cambria,"Times New Roman",Times,serif;
+$tailwind-font-family-mono: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 $tailwind-font-size-xs: 0.75rem;
 $tailwind-font-size-sm: 0.875rem;
 $tailwind-font-size-base: 1rem;
@@ -29,6 +23,15 @@ $tailwind-font-size-6xl: 3.75rem;
 $tailwind-font-size-7xl: 4.5rem;
 $tailwind-font-size-8xl: 6rem;
 $tailwind-font-size-9xl: 8rem;
+$tailwind-font-weights-thin: 100;
+$tailwind-font-weights-extralight: 200;
+$tailwind-font-weights-light: 300;
+$tailwind-font-weights-normal: 400;
+$tailwind-font-weights-medium: 500;
+$tailwind-font-weights-semibold: 600;
+$tailwind-font-weights-bold: 700;
+$tailwind-font-weights-extrabold: 800;
+$tailwind-font-weights-black: 900;
 $tailwind-spacing-0: 0px;
 $tailwind-spacing-1: 0.25rem;
 $tailwind-spacing-2: 0.5rem;
