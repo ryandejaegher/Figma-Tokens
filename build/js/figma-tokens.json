@@ -1,4 +1,21 @@
 {
+  "button": {
+    "type": "fontSizes",
+    "value": "1.5rem",
+    "filePath": "tokens/base/components/buttons.json",
+    "isSource": true,
+    "original": {
+      "type": "fontSizes",
+      "value": "{tailwind.fontSize.2xl}"
+    },
+    "name": "Button",
+    "attributes": {
+      "category": "button"
+    },
+    "path": [
+      "button"
+    ]
+  },
   "primary": "red",
   "black": "#000",
   "white": "#fff",
