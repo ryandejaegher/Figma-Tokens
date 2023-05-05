@@ -1,20 +1,24 @@
 {
-  "button": {
-    "type": "fontSizes",
-    "value": "1.5rem",
-    "filePath": "tokens/base/components/buttons.json",
-    "isSource": true,
-    "original": {
+  "base": {
+    "button": {
       "type": "fontSizes",
-      "value": "{tailwind.fontSize.2xl}"
-    },
-    "name": "Button",
-    "attributes": {
-      "category": "button"
-    },
-    "path": [
-      "button"
-    ]
+      "value": "1.5rem",
+      "filePath": "tokens/base/components/buttons.json",
+      "isSource": true,
+      "original": {
+        "type": "fontSizes",
+        "value": "{tailwind.fontSize.2xl}"
+      },
+      "name": "BaseButton",
+      "attributes": {
+        "category": "base",
+        "type": "button"
+      },
+      "path": [
+        "base",
+        "button"
+      ]
+    }
   },
   "primary": "red",
   "black": "#000",

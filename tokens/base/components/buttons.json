@@ -1,6 +1,8 @@
 {
-  "button": {
-    "type": "fontSizes",
-    "value": "{tailwind.fontSize.2xl}"
+  "base": {
+    "button": {
+      "type": "fontSizes",
+      "value": "{tailwind.fontSize.2xl}"
+    }
   }
 }
