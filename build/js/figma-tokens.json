@@ -1361,8 +1361,44 @@
   "fontTheme/themeA": {
     "fontFamily": {
       "type": "fontFamilies",
-      "primary": "Roboto",
-      "secondary": "Inter"
+      "primary": {
+        "value": "Roboto",
+        "filePath": "tokens/themes/fontThemes/fontThemeA.js",
+        "isSource": true,
+        "original": {
+          "value": "Roboto"
+        },
+        "name": "FontThemeThemeAFontFamilyPrimary",
+        "attributes": {
+          "category": "fontTheme/themeA",
+          "type": "fontFamily",
+          "item": "primary"
+        },
+        "path": [
+          "fontTheme/themeA",
+          "fontFamily",
+          "primary"
+        ]
+      },
+      "secondary": {
+        "value": "Inter",
+        "filePath": "tokens/themes/fontThemes/fontThemeA.js",
+        "isSource": true,
+        "original": {
+          "value": "Inter"
+        },
+        "name": "FontThemeThemeAFontFamilySecondary",
+        "attributes": {
+          "category": "fontTheme/themeA",
+          "type": "fontFamily",
+          "item": "secondary"
+        },
+        "path": [
+          "fontTheme/themeA",
+          "fontFamily",
+          "secondary"
+        ]
+      }
     }
   }
 }
