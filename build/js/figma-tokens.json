@@ -1285,7 +1285,7 @@
       }
     }
   },
-  "themeA": {
+  "color/themeA": {
     "color": {
       "primary": {
         "50": "#eff6ff",
@@ -1328,7 +1328,7 @@
       }
     }
   },
-  "themeB": {
+  "color/themeB": {
     "color": {
       "primary": {
         "50": "#f0fdf4",
