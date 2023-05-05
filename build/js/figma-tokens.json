@@ -275,6 +275,104 @@
         ]
       }
     },
+    "border": {
+      "0": {
+        "value": "0px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0px"
+        },
+        "name": "TailwindBorder0",
+        "attributes": {
+          "category": "tailwind",
+          "type": "border",
+          "item": "0"
+        },
+        "path": [
+          "tailwind",
+          "border",
+          "0"
+        ]
+      },
+      "2": {
+        "value": "2px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "2px"
+        },
+        "name": "TailwindBorder2",
+        "attributes": {
+          "category": "tailwind",
+          "type": "border",
+          "item": "2"
+        },
+        "path": [
+          "tailwind",
+          "border",
+          "2"
+        ]
+      },
+      "4": {
+        "value": "4px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "4px"
+        },
+        "name": "TailwindBorder4",
+        "attributes": {
+          "category": "tailwind",
+          "type": "border",
+          "item": "4"
+        },
+        "path": [
+          "tailwind",
+          "border",
+          "4"
+        ]
+      },
+      "8": {
+        "value": "8px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "8px"
+        },
+        "name": "TailwindBorder8",
+        "attributes": {
+          "category": "tailwind",
+          "type": "border",
+          "item": "8"
+        },
+        "path": [
+          "tailwind",
+          "border",
+          "8"
+        ]
+      },
+      "type": "borderWidth",
+      "DEFAULT": {
+        "value": "1px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "1px"
+        },
+        "name": "TailwindBorderDefault",
+        "attributes": {
+          "category": "tailwind",
+          "type": "border",
+          "item": "DEFAULT"
+        },
+        "path": [
+          "tailwind",
+          "border",
+          "DEFAULT"
+        ]
+      }
+    },
     "fontSize": {
       "type": "fontSizes",
       "xs": {
