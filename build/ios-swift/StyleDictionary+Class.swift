@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 05 May 2023 14:58:47 GMT
+// Generated on Fri, 05 May 2023 15:36:40 GMT
 
 
 import UIKit
@@ -22,6 +22,19 @@ public class StyleDictionaryClass {
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
     public static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
+    public static let tailwindFontSize2xl = CGFloat(24.00)
+    public static let tailwindFontSize3xl = CGFloat(30.00)
+    public static let tailwindFontSize4xl = CGFloat(36.00)
+    public static let tailwindFontSize5xl = CGFloat(48.00)
+    public static let tailwindFontSize6xl = CGFloat(60.00)
+    public static let tailwindFontSize7xl = CGFloat(72.00)
+    public static let tailwindFontSize8xl = CGFloat(96.00)
+    public static let tailwindFontSize9xl = CGFloat(128.00)
+    public static let tailwindFontSizeBase = CGFloat(16.00)
+    public static let tailwindFontSizeLg = CGFloat(18.00)
+    public static let tailwindFontSizeSm = CGFloat(14.00)
+    public static let tailwindFontSizeXl = CGFloat(20.00)
+    public static let tailwindFontSizeXs = CGFloat(12.00)
     public static let tailwindPinkColorPrimary100 = #999999
     public static let tailwindPinkColorPrimary200 = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let tailwindPinkColorPrimary50 = #CCCCCC /* This is a comment */
