@@ -1,5 +1,5 @@
 {
-  "base": {
+  "components": {
     "button": {
       "type": "fontSizes",
       "value": "1.5rem",
@@ -9,13 +9,13 @@
         "type": "fontSizes",
         "value": "{tailwind.fontSize.2xl}"
       },
-      "name": "BaseButton",
+      "name": "ComponentsButton",
       "attributes": {
-        "category": "base",
+        "category": "components",
         "type": "button"
       },
       "path": [
-        "base",
+        "components",
         "button"
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "base": {
+  "components": {
     "button": {
       "type": "fontSizes",
       "value": "{tailwind.fontSize.2xl}"
