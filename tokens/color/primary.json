@@ -1,0 +1,21 @@
+{
+  "TailwindPink": {
+    "color": {
+      "primary": {
+        "50": {
+          "value": "#CCCCCC",
+          "comment": "This is a comment",
+          "attributes": {
+            "type": "color"
+          }
+        },
+        "100": {
+          "value": "#999999"
+        },
+        "200": {
+          "value": "{color.base.red}"
+        }
+      }
+    }
+  }
+}
