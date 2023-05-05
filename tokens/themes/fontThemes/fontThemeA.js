@@ -1,7 +1,7 @@
 module.exports = {
   'fontTheme/themeA': {
-    type: 'fontFamilies',
     fontFamily: {
+      type: 'fontFamilies',
       primary: 'Roboto',
       secondary: 'Inter',
     },
