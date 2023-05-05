@@ -2,25 +2,242 @@
   "color": {
     "base": {
       "gray": {
-        "light": "#cccccc",
-        "medium": "#999999",
-        "dark": "#111111"
+        "light": {
+          "value": "#cccccc",
+          "category": "color",
+          "filePath": "tokens/color/base.json",
+          "isSource": true,
+          "original": {
+            "value": "#CCCCCC",
+            "category": "color"
+          },
+          "name": "ColorBaseGrayLight",
+          "attributes": {
+            "category": "color",
+            "type": "base",
+            "item": "gray",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "base",
+            "gray",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": "#999999",
+          "filePath": "tokens/color/base.json",
+          "isSource": true,
+          "original": {
+            "value": "#999999"
+          },
+          "name": "ColorBaseGrayMedium",
+          "attributes": {
+            "category": "color",
+            "type": "base",
+            "item": "gray",
+            "subitem": "medium"
+          },
+          "path": [
+            "color",
+            "base",
+            "gray",
+            "medium"
+          ]
+        },
+        "dark": {
+          "value": "#111111",
+          "filePath": "tokens/color/base.json",
+          "isSource": true,
+          "original": {
+            "value": "#111111"
+          },
+          "name": "ColorBaseGrayDark",
+          "attributes": {
+            "category": "color",
+            "type": "base",
+            "item": "gray",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "base",
+            "gray",
+            "dark"
+          ]
+        }
       },
-      "red": "#ff0000",
-      "green": "#00ff00"
+      "red": {
+        "value": "#ff0000",
+        "filePath": "tokens/color/base.json",
+        "isSource": true,
+        "original": {
+          "value": "#FF0000"
+        },
+        "name": "ColorBaseRed",
+        "attributes": {
+          "category": "color",
+          "type": "base",
+          "item": "red"
+        },
+        "path": [
+          "color",
+          "base",
+          "red"
+        ]
+      },
+      "green": {
+        "value": "#00ff00",
+        "filePath": "tokens/color/base.json",
+        "isSource": true,
+        "original": {
+          "value": "#00FF00"
+        },
+        "name": "ColorBaseGreen",
+        "attributes": {
+          "category": "color",
+          "type": "base",
+          "item": "green"
+        },
+        "path": [
+          "color",
+          "base",
+          "green"
+        ]
+      }
     },
     "font": {
-      "base": "#ff0000",
-      "secondary": "#00ff00",
-      "tertiary": "#cccccc"
+      "base": {
+        "value": "#ff0000",
+        "filePath": "tokens/color/font.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.base.red.value}"
+        },
+        "name": "ColorFontBase",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "base"
+        },
+        "path": [
+          "color",
+          "font",
+          "base"
+        ]
+      },
+      "secondary": {
+        "value": "#00ff00",
+        "filePath": "tokens/color/font.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.base.green.value}"
+        },
+        "name": "ColorFontSecondary",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "font",
+          "secondary"
+        ]
+      },
+      "tertiary": {
+        "value": "#cccccc",
+        "filePath": "tokens/color/font.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.base.gray.light.value}"
+        },
+        "name": "ColorFontTertiary",
+        "attributes": {
+          "category": "color",
+          "type": "font",
+          "item": "tertiary"
+        },
+        "path": [
+          "color",
+          "font",
+          "tertiary"
+        ]
+      }
     }
   },
   "TailwindPink": {
     "color": {
       "primary": {
-        "50": "#CCCCCC",
-        "100": "#999999",
-        "200": "#ff0000"
+        "50": {
+          "value": "#CCCCCC",
+          "comment": "This is a comment",
+          "attributes": {
+            "type": "color",
+            "category": "TailwindPink",
+            "item": "primary",
+            "subitem": "50"
+          },
+          "filePath": "tokens/color/primary.json",
+          "isSource": true,
+          "original": {
+            "value": "#CCCCCC",
+            "comment": "This is a comment",
+            "attributes": {
+              "type": "color"
+            }
+          },
+          "name": "TailwindPinkColorPrimary50",
+          "path": [
+            "TailwindPink",
+            "color",
+            "primary",
+            "50"
+          ]
+        },
+        "100": {
+          "value": "#999999",
+          "filePath": "tokens/color/primary.json",
+          "isSource": true,
+          "original": {
+            "value": "#999999"
+          },
+          "name": "TailwindPinkColorPrimary100",
+          "attributes": {
+            "category": "TailwindPink",
+            "type": "color",
+            "item": "primary",
+            "subitem": "100"
+          },
+          "path": [
+            "TailwindPink",
+            "color",
+            "primary",
+            "100"
+          ]
+        },
+        "200": {
+          "value": "#ff0000",
+          "filePath": "tokens/color/primary.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.base.red}"
+          },
+          "name": "TailwindPinkColorPrimary200",
+          "attributes": {
+            "category": "TailwindPink",
+            "type": "color",
+            "item": "primary",
+            "subitem": "200"
+          },
+          "path": [
+            "TailwindPink",
+            "color",
+            "primary",
+            "200"
+          ]
+        }
       }
     }
   },
@@ -29,10 +246,90 @@
   "white": "#fff",
   "size": {
     "font": {
-      "small": "0.75rem",
-      "medium": "1rem",
-      "large": "2rem",
-      "base": "1rem"
+      "small": {
+        "value": "0.75rem",
+        "comment": "the small size of the font",
+        "filePath": "tokens/size/font.json",
+        "isSource": true,
+        "original": {
+          "value": "0.75",
+          "comment": "the small size of the font"
+        },
+        "name": "SizeFontSmall",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "small"
+        },
+        "path": [
+          "size",
+          "font",
+          "small"
+        ]
+      },
+      "medium": {
+        "value": "1rem",
+        "comment": "the medium size of the font",
+        "filePath": "tokens/size/font.json",
+        "isSource": true,
+        "original": {
+          "value": "1",
+          "comment": "the medium size of the font"
+        },
+        "name": "SizeFontMedium",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "medium"
+        },
+        "path": [
+          "size",
+          "font",
+          "medium"
+        ]
+      },
+      "large": {
+        "value": "2rem",
+        "comment": "the large size of the font",
+        "filePath": "tokens/size/font.json",
+        "isSource": true,
+        "original": {
+          "value": "2",
+          "comment": "the large size of the font"
+        },
+        "name": "SizeFontLarge",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "large"
+        },
+        "path": [
+          "size",
+          "font",
+          "large"
+        ]
+      },
+      "base": {
+        "value": "1rem",
+        "comment": "the base size of the font",
+        "filePath": "tokens/size/font.json",
+        "isSource": true,
+        "original": {
+          "value": "{size.font.medium.value}",
+          "comment": "the base size of the font"
+        },
+        "name": "SizeFontBase",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "base"
+        },
+        "path": [
+          "size",
+          "font",
+          "base"
+        ]
+      }
     }
   },
   "tailwind": {
@@ -66,19 +363,292 @@
     },
     "fontSize": {
       "type": "fontSizes",
-      "xs": "0.75rem",
-      "sm": "0.875rem",
-      "base": "1rem",
-      "lg": "1.125rem",
-      "xl": "1.25rem",
-      "2xl": "1.5rem",
-      "3xl": "1.875rem",
-      "4xl": "2.25rem",
-      "5xl": "3rem",
-      "6xl": "3.75rem",
-      "7xl": "4.5rem",
-      "8xl": "6rem",
-      "9xl": "8rem"
+      "xs": {
+        "value": "0.75rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "xs"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "0.75rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSizeXs",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "xs"
+        ]
+      },
+      "sm": {
+        "value": "0.875rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "sm"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "0.875rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSizeSm",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "sm"
+        ]
+      },
+      "base": {
+        "value": "1rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "base"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSizeBase",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "base"
+        ]
+      },
+      "lg": {
+        "value": "1.125rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "lg"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.125rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSizeLg",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "lg"
+        ]
+      },
+      "xl": {
+        "value": "1.25rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.25rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSizeXl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "xl"
+        ]
+      },
+      "2xl": {
+        "value": "1.5rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "2xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.5rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize2xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "2xl"
+        ]
+      },
+      "3xl": {
+        "value": "1.875rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "3xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.875rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize3xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "3xl"
+        ]
+      },
+      "4xl": {
+        "value": "2.25rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "4xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "2.25rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize4xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "4xl"
+        ]
+      },
+      "5xl": {
+        "value": "3rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "5xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "3rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize5xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "5xl"
+        ]
+      },
+      "6xl": {
+        "value": "3.75rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "6xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "3.75rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize6xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "6xl"
+        ]
+      },
+      "7xl": {
+        "value": "4.5rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "7xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "4.5rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize7xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "7xl"
+        ]
+      },
+      "8xl": {
+        "value": "6rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "8xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "6rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize8xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "8xl"
+        ]
+      },
+      "9xl": {
+        "value": "8rem",
+        "attributes": {
+          "category": "size",
+          "type": "fontSize",
+          "item": "9xl"
+        },
+        "filePath": "tokens/base/tailwindBase/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "8rem",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "name": "TailwindFontSize9xl",
+        "path": [
+          "tailwind",
+          "fontSize",
+          "9xl"
+        ]
+      }
     }
   },
   "themeA": {

@@ -10,7 +10,7 @@
       "files": [
         {
           "destination": "figma-tokens.json",
-          "format": "json/nested"
+          "format": "json"
         }
       ]
     },
