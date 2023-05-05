@@ -18,5 +18,9 @@ module.exports = {
       type: 'spacing',
       ...tailwindSpacing,
     },
+    sizing: {
+      type: 'sizing',
+      ...tailwindSpacing,
+    },
   },
 };

@@ -153,6 +153,180 @@
         "950": "#0a0a0a"
       }
     },
+    "fontWeights": {
+      "type": "fontWeights",
+      "thin": {
+        "value": 100,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 100
+        },
+        "name": "TailwindFontWeightsThin",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "thin"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "thin"
+        ]
+      },
+      "extralight": {
+        "value": 200,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 200
+        },
+        "name": "TailwindFontWeightsExtralight",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "extralight"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "extralight"
+        ]
+      },
+      "light": {
+        "value": 300,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 300
+        },
+        "name": "TailwindFontWeightsLight",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "light"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "light"
+        ]
+      },
+      "normal": {
+        "value": 400,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 400
+        },
+        "name": "TailwindFontWeightsNormal",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "normal"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "normal"
+        ]
+      },
+      "medium": {
+        "value": 500,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 500
+        },
+        "name": "TailwindFontWeightsMedium",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "medium"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "medium"
+        ]
+      },
+      "semibold": {
+        "value": 600,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 600
+        },
+        "name": "TailwindFontWeightsSemibold",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "semibold"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "semibold"
+        ]
+      },
+      "bold": {
+        "value": 700,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 700
+        },
+        "name": "TailwindFontWeightsBold",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "bold"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "bold"
+        ]
+      },
+      "extrabold": {
+        "value": 800,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 800
+        },
+        "name": "TailwindFontWeightsExtrabold",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "extrabold"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "extrabold"
+        ]
+      },
+      "black": {
+        "value": 900,
+        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
+        "isSource": true,
+        "original": {
+          "value": 900
+        },
+        "name": "TailwindFontWeightsBlack",
+        "attributes": {
+          "category": "tailwind",
+          "type": "fontWeights",
+          "item": "black"
+        },
+        "path": [
+          "tailwind",
+          "fontWeights",
+          "black"
+        ]
+      }
+    },
     "fontSize": {
       "type": "fontSizes",
       "xs": {
@@ -439,180 +613,6 @@
           "tailwind",
           "fontSize",
           "9xl"
-        ]
-      }
-    },
-    "fontWeights": {
-      "type": "fontWeights",
-      "thin": {
-        "value": 100,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 100
-        },
-        "name": "TailwindFontWeightsThin",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "thin"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "thin"
-        ]
-      },
-      "extralight": {
-        "value": 200,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 200
-        },
-        "name": "TailwindFontWeightsExtralight",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "extralight"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "extralight"
-        ]
-      },
-      "light": {
-        "value": 300,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 300
-        },
-        "name": "TailwindFontWeightsLight",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "light"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "light"
-        ]
-      },
-      "normal": {
-        "value": 400,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 400
-        },
-        "name": "TailwindFontWeightsNormal",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "normal"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "normal"
-        ]
-      },
-      "medium": {
-        "value": 500,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 500
-        },
-        "name": "TailwindFontWeightsMedium",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "medium"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "medium"
-        ]
-      },
-      "semibold": {
-        "value": 600,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 600
-        },
-        "name": "TailwindFontWeightsSemibold",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "semibold"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "semibold"
-        ]
-      },
-      "bold": {
-        "value": 700,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 700
-        },
-        "name": "TailwindFontWeightsBold",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "bold"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "bold"
-        ]
-      },
-      "extrabold": {
-        "value": 800,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 800
-        },
-        "name": "TailwindFontWeightsExtrabold",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "extrabold"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "extrabold"
-        ]
-      },
-      "black": {
-        "value": 900,
-        "filePath": "tokens/tailwindTokens/tailwindFontWeights.js",
-        "isSource": true,
-        "original": {
-          "value": 900
-        },
-        "name": "TailwindFontWeightsBlack",
-        "attributes": {
-          "category": "tailwind",
-          "type": "fontWeights",
-          "item": "black"
-        },
-        "path": [
-          "tailwind",
-          "fontWeights",
-          "black"
         ]
       }
     },
@@ -1280,6 +1280,674 @@
         "path": [
           "tailwind",
           "spacing",
+          "3.5"
+        ]
+      }
+    },
+    "sizing": {
+      "0": {
+        "value": "0px",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0px"
+        },
+        "name": "TailwindSizing0",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "0"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "0"
+        ]
+      },
+      "1": {
+        "value": "0.25rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.25rem"
+        },
+        "name": "TailwindSizing1",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "1"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "1"
+        ]
+      },
+      "2": {
+        "value": "0.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.5rem"
+        },
+        "name": "TailwindSizing2",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "2"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "2"
+        ]
+      },
+      "3": {
+        "value": "0.75rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.75rem"
+        },
+        "name": "TailwindSizing3",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "3"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "3"
+        ]
+      },
+      "4": {
+        "value": "1rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "1rem"
+        },
+        "name": "TailwindSizing4",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "4"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "4"
+        ]
+      },
+      "5": {
+        "value": "1.25rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "1.25rem"
+        },
+        "name": "TailwindSizing5",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "5"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "5"
+        ]
+      },
+      "6": {
+        "value": "1.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "1.5rem"
+        },
+        "name": "TailwindSizing6",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "6"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "6"
+        ]
+      },
+      "7": {
+        "value": "1.75rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "1.75rem"
+        },
+        "name": "TailwindSizing7",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "7"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "7"
+        ]
+      },
+      "8": {
+        "value": "2rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "2rem"
+        },
+        "name": "TailwindSizing8",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "8"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "8"
+        ]
+      },
+      "9": {
+        "value": "2.25rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "2.25rem"
+        },
+        "name": "TailwindSizing9",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "9"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "9"
+        ]
+      },
+      "10": {
+        "value": "2.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "2.5rem"
+        },
+        "name": "TailwindSizing10",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "10"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "10"
+        ]
+      },
+      "11": {
+        "value": "2.75rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "2.75rem"
+        },
+        "name": "TailwindSizing11",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "11"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "11"
+        ]
+      },
+      "12": {
+        "value": "3rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "3rem"
+        },
+        "name": "TailwindSizing12",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "12"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "12"
+        ]
+      },
+      "14": {
+        "value": "3.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "3.5rem"
+        },
+        "name": "TailwindSizing14",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "14"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "14"
+        ]
+      },
+      "16": {
+        "value": "4rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "4rem"
+        },
+        "name": "TailwindSizing16",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "16"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "16"
+        ]
+      },
+      "20": {
+        "value": "5rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "5rem"
+        },
+        "name": "TailwindSizing20",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "20"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "20"
+        ]
+      },
+      "24": {
+        "value": "6rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "6rem"
+        },
+        "name": "TailwindSizing24",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "24"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "24"
+        ]
+      },
+      "28": {
+        "value": "7rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "7rem"
+        },
+        "name": "TailwindSizing28",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "28"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "28"
+        ]
+      },
+      "32": {
+        "value": "8rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "8rem"
+        },
+        "name": "TailwindSizing32",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "32"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "32"
+        ]
+      },
+      "36": {
+        "value": "9rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "9rem"
+        },
+        "name": "TailwindSizing36",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "36"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "36"
+        ]
+      },
+      "40": {
+        "value": "10rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "10rem"
+        },
+        "name": "TailwindSizing40",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "40"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "40"
+        ]
+      },
+      "44": {
+        "value": "11rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "11rem"
+        },
+        "name": "TailwindSizing44",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "44"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "44"
+        ]
+      },
+      "48": {
+        "value": "12rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "12rem"
+        },
+        "name": "TailwindSizing48",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "48"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "48"
+        ]
+      },
+      "52": {
+        "value": "13rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "13rem"
+        },
+        "name": "TailwindSizing52",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "52"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "52"
+        ]
+      },
+      "56": {
+        "value": "14rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "14rem"
+        },
+        "name": "TailwindSizing56",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "56"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "56"
+        ]
+      },
+      "60": {
+        "value": "15rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "15rem"
+        },
+        "name": "TailwindSizing60",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "60"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "60"
+        ]
+      },
+      "64": {
+        "value": "16rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "16rem"
+        },
+        "name": "TailwindSizing64",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "64"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "64"
+        ]
+      },
+      "72": {
+        "value": "18rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "18rem"
+        },
+        "name": "TailwindSizing72",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "72"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "72"
+        ]
+      },
+      "80": {
+        "value": "20rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "20rem"
+        },
+        "name": "TailwindSizing80",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "80"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "80"
+        ]
+      },
+      "96": {
+        "value": "24rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "24rem"
+        },
+        "name": "TailwindSizing96",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "96"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "96"
+        ]
+      },
+      "type": "sizing",
+      "px": {
+        "value": "1px",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "1px"
+        },
+        "name": "TailwindSizingPx",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "px"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "px"
+        ]
+      },
+      "0.5": {
+        "value": "0.125rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.125rem"
+        },
+        "name": "TailwindSizing05",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "0.5"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "0.5"
+        ]
+      },
+      "1.5": {
+        "value": "0.375rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.375rem"
+        },
+        "name": "TailwindSizing15",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "1.5"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "1.5"
+        ]
+      },
+      "2.5": {
+        "value": "0.625rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.625rem"
+        },
+        "name": "TailwindSizing25",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "2.5"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
+          "2.5"
+        ]
+      },
+      "3.5": {
+        "value": "0.875rem",
+        "filePath": "tokens/tailwindTokens/tailwindSpacing.js",
+        "isSource": true,
+        "original": {
+          "value": "0.875rem"
+        },
+        "name": "TailwindSizing35",
+        "attributes": {
+          "category": "tailwind",
+          "type": "sizing",
+          "item": "3.5"
+        },
+        "path": [
+          "tailwind",
+          "sizing",
           "3.5"
         ]
       }

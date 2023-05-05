@@ -1,12 +1,21 @@
 
 // Do not edit directly
-// Generated on Fri, 05 May 2023 21:08:33 GMT
+// Generated on Fri, 05 May 2023 21:17:23 GMT
 
 $components-button-button: 1.5rem;
 $size-font-small: 0.75rem; // the small size of the font
 $size-font-medium: 1rem; // the medium size of the font
 $size-font-large: 2rem; // the large size of the font
 $size-font-base: 1rem; // the base size of the font
+$tailwind-font-weights-thin: 100;
+$tailwind-font-weights-extralight: 200;
+$tailwind-font-weights-light: 300;
+$tailwind-font-weights-normal: 400;
+$tailwind-font-weights-medium: 500;
+$tailwind-font-weights-semibold: 600;
+$tailwind-font-weights-bold: 700;
+$tailwind-font-weights-extrabold: 800;
+$tailwind-font-weights-black: 900;
 $tailwind-font-size-xs: 0.75rem;
 $tailwind-font-size-sm: 0.875rem;
 $tailwind-font-size-base: 1rem;
@@ -20,15 +29,6 @@ $tailwind-font-size-6xl: 3.75rem;
 $tailwind-font-size-7xl: 4.5rem;
 $tailwind-font-size-8xl: 6rem;
 $tailwind-font-size-9xl: 8rem;
-$tailwind-font-weights-thin: 100;
-$tailwind-font-weights-extralight: 200;
-$tailwind-font-weights-light: 300;
-$tailwind-font-weights-normal: 400;
-$tailwind-font-weights-medium: 500;
-$tailwind-font-weights-semibold: 600;
-$tailwind-font-weights-bold: 700;
-$tailwind-font-weights-extrabold: 800;
-$tailwind-font-weights-black: 900;
 $tailwind-spacing-0: 0px;
 $tailwind-spacing-1: 0.25rem;
 $tailwind-spacing-2: 0.5rem;
@@ -64,5 +64,40 @@ $tailwind-spacing-0-5: 0.125rem;
 $tailwind-spacing-1-5: 0.375rem;
 $tailwind-spacing-2-5: 0.625rem;
 $tailwind-spacing-3-5: 0.875rem;
+$tailwind-sizing-0: 0px;
+$tailwind-sizing-1: 0.25rem;
+$tailwind-sizing-2: 0.5rem;
+$tailwind-sizing-3: 0.75rem;
+$tailwind-sizing-4: 1rem;
+$tailwind-sizing-5: 1.25rem;
+$tailwind-sizing-6: 1.5rem;
+$tailwind-sizing-7: 1.75rem;
+$tailwind-sizing-8: 2rem;
+$tailwind-sizing-9: 2.25rem;
+$tailwind-sizing-10: 2.5rem;
+$tailwind-sizing-11: 2.75rem;
+$tailwind-sizing-12: 3rem;
+$tailwind-sizing-14: 3.5rem;
+$tailwind-sizing-16: 4rem;
+$tailwind-sizing-20: 5rem;
+$tailwind-sizing-24: 6rem;
+$tailwind-sizing-28: 7rem;
+$tailwind-sizing-32: 8rem;
+$tailwind-sizing-36: 9rem;
+$tailwind-sizing-40: 10rem;
+$tailwind-sizing-44: 11rem;
+$tailwind-sizing-48: 12rem;
+$tailwind-sizing-52: 13rem;
+$tailwind-sizing-56: 14rem;
+$tailwind-sizing-60: 15rem;
+$tailwind-sizing-64: 16rem;
+$tailwind-sizing-72: 18rem;
+$tailwind-sizing-80: 20rem;
+$tailwind-sizing-96: 24rem;
+$tailwind-sizing-px: 1px;
+$tailwind-sizing-0-5: 0.125rem;
+$tailwind-sizing-1-5: 0.375rem;
+$tailwind-sizing-2-5: 0.625rem;
+$tailwind-sizing-3-5: 0.875rem;
 $font-theme-theme-a-font-family-primary: Roboto;
 $font-theme-theme-a-font-family-secondary: Inter;
