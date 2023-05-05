@@ -3,11 +3,9 @@ const defaultTheme = require('tailwindcss/defaultTheme');
 
 const tailwindSpacing = Object.entries(defaultTheme.spacing).reduce(
   (acc, [key, value]) => {
+    console.log('value', value);
     acc[key] = {
       value: value,
-      attributes: {
-        category: 'size',
-      },
     };
     return acc;
   },

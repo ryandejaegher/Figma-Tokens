@@ -1,10 +1,11 @@
 const colors = require('tailwindcss/colors');
 
 module.exports = {
-  themeA: {
+  tailwind: {
     color: {
       primary: colors.blue,
       secondary: colors.pink,
+      neutral: colors.neutral,
     },
   },
 };
