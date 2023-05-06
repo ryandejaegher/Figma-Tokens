@@ -33,7 +33,8 @@ module.exports = {
     },
     lineHeight: {
       type: 'lineHeight',
-      ...tailwindLineHeight,
+      // ...tailwindLineHeight,
+      value: 100,
     },
   },
 };
