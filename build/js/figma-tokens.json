@@ -275,7 +275,7 @@
         ]
       }
     },
-    "border": {
+    "borderWidth": {
       "0": {
         "value": "0px",
         "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
@@ -283,15 +283,15 @@
         "original": {
           "value": "0px"
         },
-        "name": "TailwindBorder0",
+        "name": "TailwindBorderWidth0",
         "attributes": {
           "category": "tailwind",
-          "type": "border",
+          "type": "borderWidth",
           "item": "0"
         },
         "path": [
           "tailwind",
-          "border",
+          "borderWidth",
           "0"
         ]
       },
@@ -302,15 +302,15 @@
         "original": {
           "value": "2px"
         },
-        "name": "TailwindBorder2",
+        "name": "TailwindBorderWidth2",
         "attributes": {
           "category": "tailwind",
-          "type": "border",
+          "type": "borderWidth",
           "item": "2"
         },
         "path": [
           "tailwind",
-          "border",
+          "borderWidth",
           "2"
         ]
       },
@@ -321,15 +321,15 @@
         "original": {
           "value": "4px"
         },
-        "name": "TailwindBorder4",
+        "name": "TailwindBorderWidth4",
         "attributes": {
           "category": "tailwind",
-          "type": "border",
+          "type": "borderWidth",
           "item": "4"
         },
         "path": [
           "tailwind",
-          "border",
+          "borderWidth",
           "4"
         ]
       },
@@ -340,15 +340,15 @@
         "original": {
           "value": "8px"
         },
-        "name": "TailwindBorder8",
+        "name": "TailwindBorderWidth8",
         "attributes": {
           "category": "tailwind",
-          "type": "border",
+          "type": "borderWidth",
           "item": "8"
         },
         "path": [
           "tailwind",
-          "border",
+          "borderWidth",
           "8"
         ]
       },
@@ -360,16 +360,190 @@
         "original": {
           "value": "1px"
         },
-        "name": "TailwindBorderDefault",
+        "name": "TailwindBorderWidthDefault",
         "attributes": {
           "category": "tailwind",
-          "type": "border",
+          "type": "borderWidth",
           "item": "DEFAULT"
         },
         "path": [
           "tailwind",
-          "border",
+          "borderWidth",
           "DEFAULT"
+        ]
+      }
+    },
+    "borderRadius": {
+      "type": "borderRadius",
+      "none": {
+        "value": "0px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0px"
+        },
+        "name": "TailwindBorderRadiusNone",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "none"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "none"
+        ]
+      },
+      "sm": {
+        "value": "0.125rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0.125rem"
+        },
+        "name": "TailwindBorderRadiusSm",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "sm"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "sm"
+        ]
+      },
+      "DEFAULT": {
+        "value": "0.25rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0.25rem"
+        },
+        "name": "TailwindBorderRadiusDefault",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "DEFAULT"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "DEFAULT"
+        ]
+      },
+      "md": {
+        "value": "0.375rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0.375rem"
+        },
+        "name": "TailwindBorderRadiusMd",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "md"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "md"
+        ]
+      },
+      "lg": {
+        "value": "0.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0.5rem"
+        },
+        "name": "TailwindBorderRadiusLg",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "lg"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "lg"
+        ]
+      },
+      "xl": {
+        "value": "0.75rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "0.75rem"
+        },
+        "name": "TailwindBorderRadiusXl",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "xl"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "xl"
+        ]
+      },
+      "2xl": {
+        "value": "1rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "1rem"
+        },
+        "name": "TailwindBorderRadius2xl",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "2xl"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "2xl"
+        ]
+      },
+      "3xl": {
+        "value": "1.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "1.5rem"
+        },
+        "name": "TailwindBorderRadius3xl",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "3xl"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "3xl"
+        ]
+      },
+      "full": {
+        "value": "9999px",
+        "filePath": "tokens/tailwindTokens/tailwindFontFamilies.js",
+        "isSource": true,
+        "original": {
+          "value": "9999px"
+        },
+        "name": "TailwindBorderRadiusFull",
+        "attributes": {
+          "category": "tailwind",
+          "type": "borderRadius",
+          "item": "full"
+        },
+        "path": [
+          "tailwind",
+          "borderRadius",
+          "full"
         ]
       }
     },

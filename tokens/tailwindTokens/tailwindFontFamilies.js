@@ -3,6 +3,7 @@ const defaultTheme = require('tailwindcss/defaultTheme');
 
 const tailwindFontFamily = Object.entries(defaultTheme.fontFamily);
 const tailwindBorderWidth = Object.entries(defaultTheme.borderWidth);
+const tailwindBorderRadius = Object.entries(defaultTheme.borderRadius);
 
 const fontFamilyObj = tailwindFontFamily.reduce((acc, [key, value], index) => {
   acc[key] = {
@@ -11,7 +12,18 @@ const fontFamilyObj = tailwindFontFamily.reduce((acc, [key, value], index) => {
   return acc;
 }, {});
 
+// TODO move to border settings file
 const borderWidthObj = tailwindBorderWidth.reduce(
+  (acc, [key, value], index) => {
+    acc[key] = {
+      value: value,
+    };
+    return acc;
+  },
+  {}
+);
+
+const borderRadiusObj = tailwindBorderRadius.reduce(
   (acc, [key, value], index) => {
     acc[key] = {
       value: value,
@@ -27,9 +39,13 @@ module.exports = {
       type: 'fontFamilies',
       ...fontFamilyObj,
     },
-    border: {
+    borderWidth: {
       type: 'borderWidth',
       ...borderWidthObj,
+    },
+    borderRadius: {
+      type: 'borderRadius',
+      ...borderRadiusObj,
     },
   },
 };
