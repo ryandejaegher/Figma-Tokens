@@ -2586,5 +2586,48 @@
         ]
       }
     }
+  },
+  "fontTheme/themeB": {
+    "fontFamily": {
+      "type": "fontFamilies",
+      "primary": {
+        "value": "Faustina",
+        "filePath": "tokens/themes/fontThemes/fontThemeB.js",
+        "isSource": true,
+        "original": {
+          "value": "Faustina"
+        },
+        "name": "FontThemeThemeBFontFamilyPrimary",
+        "attributes": {
+          "category": "fontTheme/themeB",
+          "type": "fontFamily",
+          "item": "primary"
+        },
+        "path": [
+          "fontTheme/themeB",
+          "fontFamily",
+          "primary"
+        ]
+      },
+      "secondary": {
+        "value": "IBM Plex Mono",
+        "filePath": "tokens/themes/fontThemes/fontThemeB.js",
+        "isSource": true,
+        "original": {
+          "value": "IBM Plex Mono"
+        },
+        "name": "FontThemeThemeBFontFamilySecondary",
+        "attributes": {
+          "category": "fontTheme/themeB",
+          "type": "fontFamily",
+          "item": "secondary"
+        },
+        "path": [
+          "fontTheme/themeB",
+          "fontFamily",
+          "secondary"
+        ]
+      }
+    }
   }
 }
