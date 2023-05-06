@@ -14,11 +14,25 @@ const tailwindFontSizes = Object.entries(defaultTheme.fontSize).reduce(
   {}
 );
 
+const tailwindLineHeight = Object.entries(defaultTheme.lineHeight).reduce(
+  (acc, [key, value]) => {
+    acc[key] = {
+      value: value,
+    };
+    return acc;
+  },
+  {}
+);
+
 module.exports = {
   tailwind: {
     fontSize: {
       type: 'fontSizes',
       ...tailwindFontSizes,
+    },
+    lineHeight: {
+      type: 'lineHeight',
+      ...tailwindLineHeight,
     },
   },
 };

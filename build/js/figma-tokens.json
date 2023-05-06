@@ -841,6 +841,275 @@
         ]
       }
     },
+    "lineHeight": {
+      "3": {
+        "value": ".75rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": ".75rem"
+        },
+        "name": "TailwindLineHeight3",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "3"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "3"
+        ]
+      },
+      "4": {
+        "value": "1rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1rem"
+        },
+        "name": "TailwindLineHeight4",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "4"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "4"
+        ]
+      },
+      "5": {
+        "value": "1.25rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.25rem"
+        },
+        "name": "TailwindLineHeight5",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "5"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "5"
+        ]
+      },
+      "6": {
+        "value": "1.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.5rem"
+        },
+        "name": "TailwindLineHeight6",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "6"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "6"
+        ]
+      },
+      "7": {
+        "value": "1.75rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.75rem"
+        },
+        "name": "TailwindLineHeight7",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "7"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "7"
+        ]
+      },
+      "8": {
+        "value": "2rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "2rem"
+        },
+        "name": "TailwindLineHeight8",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "8"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "8"
+        ]
+      },
+      "9": {
+        "value": "2.25rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "2.25rem"
+        },
+        "name": "TailwindLineHeight9",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "9"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "9"
+        ]
+      },
+      "10": {
+        "value": "2.5rem",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "2.5rem"
+        },
+        "name": "TailwindLineHeight10",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "10"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "10"
+        ]
+      },
+      "type": "lineHeight",
+      "none": {
+        "value": "1",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1"
+        },
+        "name": "TailwindLineHeightNone",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "none"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "none"
+        ]
+      },
+      "tight": {
+        "value": "1.25",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.25"
+        },
+        "name": "TailwindLineHeightTight",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "tight"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "tight"
+        ]
+      },
+      "snug": {
+        "value": "1.375",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.375"
+        },
+        "name": "TailwindLineHeightSnug",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "snug"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "snug"
+        ]
+      },
+      "normal": {
+        "value": "1.5",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.5"
+        },
+        "name": "TailwindLineHeightNormal",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "normal"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "normal"
+        ]
+      },
+      "relaxed": {
+        "value": "1.625",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "1.625"
+        },
+        "name": "TailwindLineHeightRelaxed",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "relaxed"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "relaxed"
+        ]
+      },
+      "loose": {
+        "value": "2",
+        "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
+        "isSource": true,
+        "original": {
+          "value": "2"
+        },
+        "name": "TailwindLineHeightLoose",
+        "attributes": {
+          "category": "tailwind",
+          "type": "lineHeight",
+          "item": "loose"
+        },
+        "path": [
+          "tailwind",
+          "lineHeight",
+          "loose"
+        ]
+      }
+    },
     "fontWeights": {
       "type": "fontWeights",
       "thin": {
