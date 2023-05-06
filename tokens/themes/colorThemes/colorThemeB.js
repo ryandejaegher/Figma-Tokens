@@ -2,8 +2,8 @@ const colors = require('tailwindcss/colors');
 
 module.exports = {
   'colorTheme/themeB': {
-    light: {
-      color: {
+    color: {
+      light: {
         primary: colors.green,
         secondary: colors.yellow,
         neutral: colors.neutral,
@@ -13,9 +13,7 @@ module.exports = {
           danger: colors.red[500],
         },
       },
-    },
-    dark: {
-      color: {
+      dark: {
         primary: colors.green,
         secondary: colors.yellow,
         neutral: colors.neutral,

@@ -2353,8 +2353,8 @@
     }
   },
   "colorTheme/themeA": {
-    "light": {
-      "color": {
+    "color": {
+      "light": {
         "primary": {
           "50": "#eff6ff",
           "100": "#dbeafe",
@@ -2399,10 +2399,8 @@
           "warning": "#eab308",
           "danger": "#ef4444"
         }
-      }
-    },
-    "dark": {
-      "color": {
+      },
+      "dark": {
         "primary": {
           "50": "#eff6ff",
           "100": "#dbeafe",
@@ -2451,8 +2449,8 @@
     }
   },
   "colorTheme/themeB": {
-    "light": {
-      "color": {
+    "color": {
+      "light": {
         "primary": {
           "50": "#f0fdf4",
           "100": "#dcfce7",
@@ -2497,10 +2495,8 @@
           "warning": "#eab308",
           "danger": "#ef4444"
         }
-      }
-    },
-    "dark": {
-      "color": {
+      },
+      "dark": {
         "primary": {
           "50": "#f0fdf4",
           "100": "#dcfce7",
