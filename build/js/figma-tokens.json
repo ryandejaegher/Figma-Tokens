@@ -844,10 +844,12 @@
     "lineHeight": {
       "3": {
         "value": ".75rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": ".75rem"
+          "value": ".75rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight3",
         "attributes": {
@@ -863,10 +865,12 @@
       },
       "4": {
         "value": "1rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1rem"
+          "value": "1rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight4",
         "attributes": {
@@ -882,10 +886,12 @@
       },
       "5": {
         "value": "1.25rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.25rem"
+          "value": "1.25rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight5",
         "attributes": {
@@ -901,10 +907,12 @@
       },
       "6": {
         "value": "1.5rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.5rem"
+          "value": "1.5rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight6",
         "attributes": {
@@ -920,10 +928,12 @@
       },
       "7": {
         "value": "1.75rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.75rem"
+          "value": "1.75rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight7",
         "attributes": {
@@ -939,10 +949,12 @@
       },
       "8": {
         "value": "2rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "2rem"
+          "value": "2rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight8",
         "attributes": {
@@ -958,10 +970,12 @@
       },
       "9": {
         "value": "2.25rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "2.25rem"
+          "value": "2.25rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight9",
         "attributes": {
@@ -977,10 +991,12 @@
       },
       "10": {
         "value": "2.5rem",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "2.5rem"
+          "value": "2.5rem",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeight10",
         "attributes": {
@@ -994,13 +1010,14 @@
           "10"
         ]
       },
-      "type": "lineHeight",
       "none": {
         "value": "1",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1"
+          "value": "1",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeightNone",
         "attributes": {
@@ -1016,10 +1033,12 @@
       },
       "tight": {
         "value": "1.25",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.25"
+          "value": "1.25",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeightTight",
         "attributes": {
@@ -1035,10 +1054,12 @@
       },
       "snug": {
         "value": "1.375",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.375"
+          "value": "1.375",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeightSnug",
         "attributes": {
@@ -1054,10 +1075,12 @@
       },
       "normal": {
         "value": "1.5",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.5"
+          "value": "1.5",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeightNormal",
         "attributes": {
@@ -1073,10 +1096,12 @@
       },
       "relaxed": {
         "value": "1.625",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "1.625"
+          "value": "1.625",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeightRelaxed",
         "attributes": {
@@ -1092,10 +1117,12 @@
       },
       "loose": {
         "value": "2",
+        "type": "lineHeight",
         "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
         "isSource": true,
         "original": {
-          "value": "2"
+          "value": "2",
+          "type": "lineHeight"
         },
         "name": "TailwindLineHeightLoose",
         "attributes": {

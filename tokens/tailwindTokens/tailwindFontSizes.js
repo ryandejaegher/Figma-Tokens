@@ -18,6 +18,7 @@ const tailwindLineHeight = Object.entries(defaultTheme.lineHeight).reduce(
   (acc, [key, value]) => {
     acc[key] = {
       value: value,
+      type: 'lineHeight',
     };
     return acc;
   },
@@ -31,7 +32,6 @@ module.exports = {
       ...tailwindFontSizes,
     },
     lineHeight: {
-      type: 'lineHeight',
       ...tailwindLineHeight,
     },
   },
