@@ -1,55 +1,57 @@
 {
-  "components/prose": {
-    "mobile": {
-      "h1": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
+  "components": {
+    "prose": {
+      "mobile": {
+        "h1": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h2": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h3": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h4": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h5": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h6": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        }
       },
-      "h2": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h3": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h4": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h5": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h6": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      }
-    },
-    "desktop": {
-      "h1": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h2": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h3": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h4": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h5": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "h6": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
+      "desktop": {
+        "h1": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h2": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h3": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h4": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h5": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "h6": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        }
       }
     }
   }

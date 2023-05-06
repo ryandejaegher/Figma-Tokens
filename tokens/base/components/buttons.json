@@ -1,17 +1,19 @@
 {
-  "components/button": {
-    "size": {
-      "sm": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "md": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
-      },
-      "lg": {
-        "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
+  "components": {
+    "buttons": {
+      "size": {
+        "sm": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "md": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "lg": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        }
       }
     }
   }
