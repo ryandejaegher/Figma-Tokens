@@ -1,23 +1,327 @@
 {
   "components/button": {
-    "button": {
-      "type": "fontSizes",
-      "value": "1.5rem",
-      "filePath": "tokens/base/components/buttons.json",
-      "isSource": true,
-      "original": {
+    "size": {
+      "sm": {
         "type": "fontSizes",
-        "value": "{tailwind.fontSize.2xl}"
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/buttons.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsButtonSizeSm",
+        "attributes": {
+          "category": "components/button",
+          "type": "size",
+          "item": "sm"
+        },
+        "path": [
+          "components/button",
+          "size",
+          "sm"
+        ]
       },
-      "name": "ComponentsButtonButton",
-      "attributes": {
-        "category": "components/button",
-        "type": "button"
+      "md": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/buttons.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsButtonSizeMd",
+        "attributes": {
+          "category": "components/button",
+          "type": "size",
+          "item": "md"
+        },
+        "path": [
+          "components/button",
+          "size",
+          "md"
+        ]
       },
-      "path": [
-        "components/button",
-        "button"
-      ]
+      "lg": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/buttons.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsButtonSizeLg",
+        "attributes": {
+          "category": "components/button",
+          "type": "size",
+          "item": "lg"
+        },
+        "path": [
+          "components/button",
+          "size",
+          "lg"
+        ]
+      }
+    }
+  },
+  "components/tailwind/prose": {
+    "mobile": {
+      "h1": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseMobileH1",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "mobile",
+          "item": "h1"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "mobile",
+          "h1"
+        ]
+      },
+      "h2": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseMobileH2",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "mobile",
+          "item": "h2"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "mobile",
+          "h2"
+        ]
+      },
+      "h3": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseMobileH3",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "mobile",
+          "item": "h3"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "mobile",
+          "h3"
+        ]
+      },
+      "h4": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseMobileH4",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "mobile",
+          "item": "h4"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "mobile",
+          "h4"
+        ]
+      },
+      "h5": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseMobileH5",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "mobile",
+          "item": "h5"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "mobile",
+          "h5"
+        ]
+      },
+      "h6": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseMobileH6",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "mobile",
+          "item": "h6"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "mobile",
+          "h6"
+        ]
+      }
+    },
+    "desktop": {
+      "h1": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseDesktopH1",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "desktop",
+          "item": "h1"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "desktop",
+          "h1"
+        ]
+      },
+      "h2": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseDesktopH2",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "desktop",
+          "item": "h2"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "desktop",
+          "h2"
+        ]
+      },
+      "h3": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseDesktopH3",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "desktop",
+          "item": "h3"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "desktop",
+          "h3"
+        ]
+      },
+      "h4": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseDesktopH4",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "desktop",
+          "item": "h4"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "desktop",
+          "h4"
+        ]
+      },
+      "h5": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseDesktopH5",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "desktop",
+          "item": "h5"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "desktop",
+          "h5"
+        ]
+      },
+      "h6": {
+        "type": "fontSizes",
+        "value": "1.5rem",
+        "filePath": "tokens/base/components/prose.json",
+        "isSource": true,
+        "original": {
+          "type": "fontSizes",
+          "value": "{tailwind.fontSize.2xl}"
+        },
+        "name": "ComponentsTailwindProseDesktopH6",
+        "attributes": {
+          "category": "components/tailwind/prose",
+          "type": "desktop",
+          "item": "h6"
+        },
+        "path": [
+          "components/tailwind/prose",
+          "desktop",
+          "h6"
+        ]
+      }
     }
   },
   "primary": "red",

@@ -1,8 +1,18 @@
 {
   "components/button": {
-    "button": {
-      "type": "fontSizes",
-      "value": "{tailwind.fontSize.2xl}"
+    "size": {
+      "sm": {
+        "type": "fontSizes",
+        "value": "{tailwind.fontSize.2xl}"
+      },
+      "md": {
+        "type": "fontSizes",
+        "value": "{tailwind.fontSize.2xl}"
+      },
+      "lg": {
+        "type": "fontSizes",
+        "value": "{tailwind.fontSize.2xl}"
+      }
     }
   }
 }
