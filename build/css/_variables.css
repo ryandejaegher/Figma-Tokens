@@ -1,24 +1,24 @@
 /**
  * Do not edit directly
- * Generated on Sat, 06 May 2023 11:17:25 GMT
+ * Generated on Sat, 06 May 2023 11:17:55 GMT
  */
 
 :root {
   --components-button-size-sm: 1.5rem;
   --components-button-size-md: 1.5rem;
   --components-button-size-lg: 1.5rem;
-  --components-tailwind-prose-mobile-h1: 1.5rem;
-  --components-tailwind-prose-mobile-h2: 1.5rem;
-  --components-tailwind-prose-mobile-h3: 1.5rem;
-  --components-tailwind-prose-mobile-h4: 1.5rem;
-  --components-tailwind-prose-mobile-h5: 1.5rem;
-  --components-tailwind-prose-mobile-h6: 1.5rem;
-  --components-tailwind-prose-desktop-h1: 1.5rem;
-  --components-tailwind-prose-desktop-h2: 1.5rem;
-  --components-tailwind-prose-desktop-h3: 1.5rem;
-  --components-tailwind-prose-desktop-h4: 1.5rem;
-  --components-tailwind-prose-desktop-h5: 1.5rem;
-  --components-tailwind-prose-desktop-h6: 1.5rem;
+  --components-prose-mobile-h1: 1.5rem;
+  --components-prose-mobile-h2: 1.5rem;
+  --components-prose-mobile-h3: 1.5rem;
+  --components-prose-mobile-h4: 1.5rem;
+  --components-prose-mobile-h5: 1.5rem;
+  --components-prose-mobile-h6: 1.5rem;
+  --components-prose-desktop-h1: 1.5rem;
+  --components-prose-desktop-h2: 1.5rem;
+  --components-prose-desktop-h3: 1.5rem;
+  --components-prose-desktop-h4: 1.5rem;
+  --components-prose-desktop-h5: 1.5rem;
+  --components-prose-desktop-h6: 1.5rem;
   --size-font-small: 0.75rem; /* the small size of the font */
   --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */

@@ -66,7 +66,7 @@
       }
     }
   },
-  "components/tailwind/prose": {
+  "components/prose": {
     "mobile": {
       "h1": {
         "type": "fontSizes",
@@ -77,14 +77,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseMobileH1",
+        "name": "ComponentsProseMobileH1",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "mobile",
           "item": "h1"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "mobile",
           "h1"
         ]
@@ -98,14 +98,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseMobileH2",
+        "name": "ComponentsProseMobileH2",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "mobile",
           "item": "h2"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "mobile",
           "h2"
         ]
@@ -119,14 +119,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseMobileH3",
+        "name": "ComponentsProseMobileH3",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "mobile",
           "item": "h3"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "mobile",
           "h3"
         ]
@@ -140,14 +140,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseMobileH4",
+        "name": "ComponentsProseMobileH4",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "mobile",
           "item": "h4"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "mobile",
           "h4"
         ]
@@ -161,14 +161,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseMobileH5",
+        "name": "ComponentsProseMobileH5",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "mobile",
           "item": "h5"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "mobile",
           "h5"
         ]
@@ -182,14 +182,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseMobileH6",
+        "name": "ComponentsProseMobileH6",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "mobile",
           "item": "h6"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "mobile",
           "h6"
         ]
@@ -205,14 +205,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseDesktopH1",
+        "name": "ComponentsProseDesktopH1",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "desktop",
           "item": "h1"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "desktop",
           "h1"
         ]
@@ -226,14 +226,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseDesktopH2",
+        "name": "ComponentsProseDesktopH2",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "desktop",
           "item": "h2"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "desktop",
           "h2"
         ]
@@ -247,14 +247,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseDesktopH3",
+        "name": "ComponentsProseDesktopH3",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "desktop",
           "item": "h3"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "desktop",
           "h3"
         ]
@@ -268,14 +268,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseDesktopH4",
+        "name": "ComponentsProseDesktopH4",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "desktop",
           "item": "h4"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "desktop",
           "h4"
         ]
@@ -289,14 +289,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseDesktopH5",
+        "name": "ComponentsProseDesktopH5",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "desktop",
           "item": "h5"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "desktop",
           "h5"
         ]
@@ -310,14 +310,14 @@
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
         },
-        "name": "ComponentsTailwindProseDesktopH6",
+        "name": "ComponentsProseDesktopH6",
         "attributes": {
-          "category": "components/tailwind/prose",
+          "category": "components/prose",
           "type": "desktop",
           "item": "h6"
         },
         "path": [
-          "components/tailwind/prose",
+          "components/prose",
           "desktop",
           "h6"
         ]

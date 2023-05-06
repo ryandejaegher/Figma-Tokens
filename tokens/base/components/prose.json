@@ -1,5 +1,5 @@
 {
-  "components/tailwind/prose": {
+  "components/prose": {
     "mobile": {
       "h1": {
         "type": "fontSizes",
