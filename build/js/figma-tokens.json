@@ -842,12 +842,12 @@
       }
     },
     "lineHeight": {
-      "type": "lineHeight",
+      "type": "lineHeights",
       "value": 100,
       "filePath": "tokens/tailwindTokens/tailwindFontSizes.js",
       "isSource": true,
       "original": {
-        "type": "lineHeight",
+        "type": "lineHeights",
         "value": 100
       },
       "name": "TailwindLineHeight",

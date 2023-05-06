@@ -32,7 +32,7 @@ module.exports = {
       ...tailwindFontSizes,
     },
     lineHeight: {
-      type: 'lineHeight',
+      type: 'lineHeights',
       // ...tailwindLineHeight,
       value: 100,
     },
