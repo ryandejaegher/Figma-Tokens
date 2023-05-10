@@ -1,7 +1,7 @@
 {
   "components": {
     "buttons": {
-      "size": {
+      "font": {
         "sm": {
           "type": "fontSizes",
           "value": "1.5rem",
@@ -11,17 +11,17 @@
             "type": "fontSizes",
             "value": "{tailwind.fontSize.2xl}"
           },
-          "name": "ComponentsButtonsSizeSm",
+          "name": "ComponentsButtonsFontSm",
           "attributes": {
             "category": "components",
             "type": "buttons",
-            "item": "size",
+            "item": "font",
             "subitem": "sm"
           },
           "path": [
             "components",
             "buttons",
-            "size",
+            "font",
             "sm"
           ]
         },
@@ -34,17 +34,17 @@
             "type": "fontSizes",
             "value": "{tailwind.fontSize.2xl}"
           },
-          "name": "ComponentsButtonsSizeMd",
+          "name": "ComponentsButtonsFontMd",
           "attributes": {
             "category": "components",
             "type": "buttons",
-            "item": "size",
+            "item": "font",
             "subitem": "md"
           },
           "path": [
             "components",
             "buttons",
-            "size",
+            "font",
             "md"
           ]
         },
@@ -57,17 +57,17 @@
             "type": "fontSizes",
             "value": "{tailwind.fontSize.2xl}"
           },
-          "name": "ComponentsButtonsSizeLg",
+          "name": "ComponentsButtonsFontLg",
           "attributes": {
             "category": "components",
             "type": "buttons",
-            "item": "size",
+            "item": "font",
             "subitem": "lg"
           },
           "path": [
             "components",
             "buttons",
-            "size",
+            "font",
             "lg"
           ]
         }

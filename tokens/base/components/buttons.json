@@ -1,7 +1,7 @@
 {
   "components": {
     "buttons": {
-      "size": {
+      "font": {
         "sm": {
           "type": "fontSizes",
           "value": "{tailwind.fontSize.2xl}"
