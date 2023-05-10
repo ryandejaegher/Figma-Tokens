@@ -4,6 +4,7 @@ module.exports = {
       type: 'fontFamilies',
       primary: { value: 'Faustina' },
       secondary: { value: 'IBM Plex Mono' },
+      code: { value: 'IBM Plex Mono' },
     },
   },
 };
