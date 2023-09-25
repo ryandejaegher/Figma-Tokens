@@ -1,5 +1,9 @@
 {
   "size": {
+    "scale": {
+      "value": "1.2",
+      "description": "the scale of the font"
+    },
     "type": "fontSizes",
     "font": {
       "base": {
@@ -15,7 +19,7 @@
         "comment": "the medium size of the font"
       },
       "large": {
-        "value": "2",
+        "value": "{size.scale}^2 * {size.font.medium}",
         "comment": "the large size of the font"
       },
       "x-large": {
