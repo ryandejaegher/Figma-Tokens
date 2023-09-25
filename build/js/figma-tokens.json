@@ -3189,6 +3189,25 @@
           "fontFamily",
           "secondary"
         ]
+      },
+      "code": {
+        "value": "IBM Plex Mono",
+        "filePath": "tokens/themes/fontThemes/fontThemeA.js",
+        "isSource": true,
+        "original": {
+          "value": "IBM Plex Mono"
+        },
+        "name": "FontThemeThemeAFontFamilyCode",
+        "attributes": {
+          "category": "fontTheme/themeA",
+          "type": "fontFamily",
+          "item": "code"
+        },
+        "path": [
+          "fontTheme/themeA",
+          "fontFamily",
+          "code"
+        ]
       }
     }
   },
@@ -3231,6 +3250,25 @@
           "fontTheme/themeB",
           "fontFamily",
           "secondary"
+        ]
+      },
+      "code": {
+        "value": "IBM Plex Mono",
+        "filePath": "tokens/themes/fontThemes/fontThemeB.js",
+        "isSource": true,
+        "original": {
+          "value": "IBM Plex Mono"
+        },
+        "name": "FontThemeThemeBFontFamilyCode",
+        "attributes": {
+          "category": "fontTheme/themeB",
+          "type": "fontFamily",
+          "item": "code"
+        },
+        "path": [
+          "fontTheme/themeB",
+          "fontFamily",
+          "code"
         ]
       }
     }
