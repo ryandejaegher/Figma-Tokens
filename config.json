@@ -1,7 +1,6 @@
 {
   "source": [
-    "tokens/**/*.json",
-    "tokens/**/*.js"
+    "tokens/base/font.json"
   ],
   "platforms": {
     "figma-tokens": {
