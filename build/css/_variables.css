@@ -1,11 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Mon, 25 Sep 2023 11:52:13 GMT
+ * Generated on Mon, 25 Sep 2023 11:55:46 GMT
  */
 
 :root {
+  --size-font-base: 1rem; /* the base size of the font */
   --size-font-small: 0.75rem; /* the small size of the font */
   --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */
-  --size-font-base: 1rem; /* the base size of the font */
+  --size-font-x-large: 3rem; /* the large size of the font */
 }

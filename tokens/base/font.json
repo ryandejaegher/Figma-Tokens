@@ -2,6 +2,10 @@
   "size": {
     "type": "fontSizes",
     "font": {
+      "base": {
+        "value": "{size.font.medium.value}",
+        "comment": "the base size of the font"
+      },
       "small": {
         "value": "0.75",
         "comment": "the small size of the font"
@@ -14,9 +18,9 @@
         "value": "2",
         "comment": "the large size of the font"
       },
-      "base": {
-        "value": "{size.font.medium.value}",
-        "comment": "the base size of the font"
+      "x-large": {
+        "value": "3",
+        "comment": "the large size of the font"
       }
     }
   }

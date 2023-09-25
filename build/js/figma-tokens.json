@@ -2,6 +2,27 @@
   "size": {
     "type": "fontSizes",
     "font": {
+      "base": {
+        "value": "1rem",
+        "comment": "the base size of the font",
+        "filePath": "tokens/base/font.json",
+        "isSource": true,
+        "original": {
+          "value": "{size.font.medium.value}",
+          "comment": "the base size of the font"
+        },
+        "name": "SizeFontBase",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "base"
+        },
+        "path": [
+          "size",
+          "font",
+          "base"
+        ]
+      },
       "small": {
         "value": "0.75rem",
         "comment": "the small size of the font",
@@ -65,25 +86,25 @@
           "large"
         ]
       },
-      "base": {
-        "value": "1rem",
-        "comment": "the base size of the font",
+      "x-large": {
+        "value": "3rem",
+        "comment": "the large size of the font",
         "filePath": "tokens/base/font.json",
         "isSource": true,
         "original": {
-          "value": "{size.font.medium.value}",
-          "comment": "the base size of the font"
+          "value": "3",
+          "comment": "the large size of the font"
         },
-        "name": "SizeFontBase",
+        "name": "SizeFontXLarge",
         "attributes": {
           "category": "size",
           "type": "font",
-          "item": "base"
+          "item": "x-large"
         },
         "path": [
           "size",
           "font",
-          "base"
+          "x-large"
         ]
       }
     }
