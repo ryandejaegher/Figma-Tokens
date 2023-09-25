@@ -1,6 +1,5 @@
 {
   "size": {
-    "type": "fontSizes",
     "font": {
       "base": {
         "value": "{size.font.medium.value}",
