@@ -1,5 +1,24 @@
 {
   "size": {
+    "scale": {
+      "value": "1.2rem",
+      "description": "the scale of the font",
+      "filePath": "tokens/base/font.json",
+      "isSource": true,
+      "original": {
+        "value": "1.2",
+        "description": "the scale of the font"
+      },
+      "name": "SizeScale",
+      "attributes": {
+        "category": "size",
+        "type": "scale"
+      },
+      "path": [
+        "size",
+        "scale"
+      ]
+    },
     "type": "fontSizes",
     "font": {
       "base": {
@@ -66,12 +85,12 @@
         ]
       },
       "large": {
-        "value": "2rem",
+        "value": "1.2rem^2 * 1rem",
         "comment": "the large size of the font",
         "filePath": "tokens/base/font.json",
         "isSource": true,
         "original": {
-          "value": "2",
+          "value": "{size.scale}^2 * {size.font.medium}",
           "comment": "the large size of the font"
         },
         "name": "SizeFontLarge",
